@@ -1,0 +1,19 @@
+{
+  "accentColor": "#b965e6",
+  "cssTheme": "Atom",
+  "theme": "system",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "blockquote",
+    "properties",
+    "Cards",
+    "dashboard",
+    "largura_linhas_painel",
+    "painel_dashboard",
+    "dash"
+  ],
+  "nativeMenus": false
+}

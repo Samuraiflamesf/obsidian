@@ -1,0 +1,182 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "0.Resources/media",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "image",
+            "fitStyle": "cover",
+            "cardWidth": 90
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "assistido",
+                "operator": "is-not-checked",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "0a5f00b8-93f1-4a9d-b7c0-6ac7c2952e40",
+          "name": "Lista",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "coverField": "image",
+            "cardWidth": 90
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "assistido",
+                "operator": "is-checked",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f9ac85cd-5936-4bcf-9beb-d21d509dcd97",
+          "name": "Assistidos",
+          "type": "gallery"
+        }
+      ],
+      "id": "6cd11b1f-cba4-4dc0-b6dc-40cd1dd744de",
+      "name": "Filmes e Séries "
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "0.Resources/books",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "cardWidth": 120,
+            "coverField": "Cover",
+            "fitStyle": "cover"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "fisico",
+                "operator": "is-not-checked",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2af97bf5-9a62-431a-a169-cc04ab00a969",
+          "name": "Kindle",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "cardWidth": 120,
+            "coverField": "Cover"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "fisico",
+                "operator": "is-checked",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "978da9d6-d09b-439d-b468-4d3a44bb4860",
+          "name": "Físico",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "cardWidth": 120,
+            "coverField": "Cover"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "leitura_término",
+                "operator": "is-not-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "8012fb0d-ab4f-4867-ae35-14ceaf949ee6",
+          "name": "Lidos",
+          "type": "gallery"
+        }
+      ],
+      "id": "507ac64b-0e82-4171-bbf2-555bf0459c05",
+      "name": "Biblioteca"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

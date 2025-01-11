@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#589bf3",
+  "enabledCssSnippets": [
+    "blockquote",
+    "cards",
+    "dash",
+    "dashboard",
+    "properties"
+  ],
+  "showViewHeader": true
+}

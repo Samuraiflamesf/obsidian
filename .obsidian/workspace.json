@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "e57e00e88dc70c82",
+    "type": "split",
+    "children": [
+      {
+        "id": "b55e1db28051ac8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73dff4870360db20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c945ca5f58de9cc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "10483fac17a9bc76",
+        "type": "tabs",
+        "dimension": 72.54335260115607,
+        "children": [
+          {
+            "id": "668bcea7aa6aaf02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f6a19e85334a3eb4",
+        "type": "tabs",
+        "dimension": 27.45664739884393,
+        "children": [
+          {
+            "id": "c1e187b68064b3dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7ade48561e8780b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "745bd7a7e376a3fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f026c6d06d316875",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "57c2236cabcb56af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "2ad7ebe01af8552f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "6c889d10c74fe0aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "2a398feee2b2a420",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "7f02a9d97eded469",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "a6fe1f222adeda45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6b936a49ae8e2190",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "508f1d7a0eb6ecf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "31acab001e20823c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Abrir a nota de hoje": true,
+      "switcher:Abrir a troca rápida": true,
+      "canvas:Criar novo canvas": true,
+      "templates:Inserir modelo": true,
+      "command-palette:Abrir paleta de comandos": true,
+      "graph:Abrir visualização em gráfico": true,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-plugin-tmdb:TMDB Plugin": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": true,
+      "workspaces:Gerenciar leiautes da área de trabalho": true,
+      "random-note:Abrir nota aleatória": true
+    }
+  },
+  "active": "73dff4870360db20",
+  "lastOpenFiles": [
+    "0.Settings/media/filmes/O Poderoso Chefão Parte II (1974).md",
+    "3.Caixa de Entrada/Brincando com Área e Perímetro (Ensino Fundamental).md",
+    "0.Settings/media/filmes/Central do Brasil (1998).md",
+    "3.Caixa de Entrada/2025/01/11.md",
+    "3.Caixa de Entrada/2025/01",
+    "3.Caixa de Entrada/2025",
+    "3.Caixa de Entrada/Sem título.md",
+    "0.Settings/books/Nada pode me ferir.md",
+    "0.Settings/img/Nada pode me ferir.jpg",
+    "0.Settings/books/Os segredos da mente milionária.md",
+    "0.Settings/books/Essencialismo.md",
+    "0.Settings/img/Essencialismo.jpg",
+    "0.Settings/books/O homem mais rico da Babilônia.md",
+    "0.Settings/img/O homem mais rico da Babilônia.jpg",
+    "3.Caixa de Entrada/Rio Grande do Sul.md",
+    "bd/bd-main/1.Minha Vida/RimWord.md",
+    "bd/Obsidian/1.Minha Vida/RimWord.md",
+    "bd/Obsidian/3.Caixa de Entrada/RimWord - Cronograma.md",
+    "bd/Obsidian/0.Settings/media/series/Uma Questão de Química (2023).md",
+    "bd/Obsidian/0.Settings/media/series/The Old Man (2022).md",
+    "bd/Obsidian/0.Settings/media/series/Sr. & Sra. Smith (2024).md",
+    "bd/Obsidian/0.Settings/media/series/ReZERO -Starting Life in Another World- Director's Cut (2020).md",
+    "bd/Obsidian/0.Settings/media/series/ReZERO -Starting Life in Another World- (2016).md",
+    "bd/Obsidian/0.Settings/media/series/Pam & Tommy (2022).md",
+    "bd/Obsidian/0.Settings/media/series/Os 100 (2014).md",
+    "bd/Obsidian/0.Settings/media/series/O Segredo Além do Jardim (2014).md",
+    "bd/Obsidian/0.Settings/media/series/O Paciente (2022).md",
+    "bd/Obsidian/0.Settings/media/series/Missa da Meia-Noite (2021).md",
+    "bd/Obsidian/0.Settings/media/series/Irmãos de Guerra (2001).md",
+    "bd/Obsidian/0.Settings/media/series/Impuros (2018).md",
+    "bd/Obsidian/0.Settings/media/series/Família Soprano (1999).md",
+    "bd/Obsidian/0.Settings/media/series",
+    "bd/Obsidian/0.Settings/media/filmes",
+    "bd/Obsidian/0.Settings/img/WhatsApp Image 2024-12-09 at 12.16.42.jpeg",
+    "bd/Obsidian/0.Settings/img/WhatsApp Image 2024-12-09 at 12.16.42 1.webp",
+    "bd/Obsidian/0.Settings/img/WebQuest - Analisando Gráficos.pdf",
+    "bd/Obsidian/0.Settings/img/Vista do O Uso do GeoGebra e Impressora 3D como Recurso Didático para o Ensino da Geometria das Coordenadas.pdf",
+    "bd/Obsidian/0.Settings/img/Utilização Lúdica do Software GeoGebra 3D.pdf",
+    "bd/Obsidian/0.Settings/img/USO DA IMPRESSORA 3D NO ENSINO DE MATEMÁTICA.pdf",
+    "bd/Obsidian/0.Settings/img/Untitled.png",
+    "bd/Obsidian/0.Settings/img/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO.pdf",
+    "bd/Obsidian/0.Settings/img/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO DA MATEMÁTICA- CONSTRUINDO INSTRUMENTOS DIDÁTICOS PARA A SALA DE AULA.pdf",
+    "bd/Obsidian/0.Settings/img/Tab_Batalha_red.jpg",
+    "bd/Obsidian/0.Settings/img/tabuleiro.png",
+    "bd/Obsidian/0.Settings/img/tabuleiro.jpg",
+    "bd/Obsidian/0.Settings/img/tabuleiro jogo_Carol.jpg",
+    "1.LIFE/Moc/Fontes de Renda.canvas",
+    "Sem título.canvas",
+    "Sem título 1.canvas",
+    "Locais & Viagens/Sem título.canvas"
+  ]
+}

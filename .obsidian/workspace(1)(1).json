@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "e57e00e88dc70c82",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc8dd85807d00853",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "087443294da022ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.LIFE/Notas/Introdução ao Pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c945ca5f58de9cc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "10483fac17a9bc76",
+        "type": "tabs",
+        "dimension": 55.2046783625731,
+        "children": [
+          {
+            "id": "668bcea7aa6aaf02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8521ed35a6946e08",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a54081e11b9564a",
+        "type": "tabs",
+        "dimension": 44.7953216374269,
+        "children": [
+          {
+            "id": "b768e4e1b7ef0195",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "7ade48561e8780b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "745bd7a7e376a3fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97dc39fe1661a03a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.LIFE/Notas/Introdução ao Pandas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f026c6d06d316875",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.LIFE/Notas/Introdução ao Pandas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c48903a576403f29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "dd461c53c1fd0f83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.LIFE/Notas/Introdução ao Pandas.md"
+              }
+            }
+          },
+          {
+            "id": "57c2236cabcb56af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "2ad7ebe01af8552f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c889d10c74fe0aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a398feee2b2a420",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Abrir nota aleatória": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b768e4e1b7ef0195",
+  "lastOpenFiles": [
+    "1.LIFE/Notas/Introdução ao Pandas.md",
+    "1.LIFE/Moc/Filmes e Series.md",
+    "0.Resources/series/Devs (2020).md",
+    "0.Resources/series/Dopesick (2021).md",
+    "0.Resources/series/The Old Man (2022–).md",
+    "0.Resources/series/Pam  Tommy (2022).md",
+    "0.Resources/series/O Paciente (2019–).md",
+    "0.Resources/series/A Small Light (2023).md",
+    "1.LIFE/Notas/Lista de Filmes.md",
+    "0.Resources/series/Impuros (2018–).md",
+    "3.Caixa de Entrada/Notas/Sem título.md",
+    "1.LIFE/Notas/Livros de Informatica.md",
+    "3.Caixa de Entrada/Notas/Pandas_Python.md",
+    "Templates/bookTemplate.md",
+    "0.Resources/books/Manga - Toni Johnson-Woods.md",
+    "0.Resources/books/img/Manga - Toni Johnson-Woods.jpg",
+    "0.Resources/books/O método Bullet Journal - Ryder Carroll.md",
+    "Templates/scripts/Movies_Model.md",
+    "3.Caixa de Entrada/Notas/{{cover}}.md",
+    "1.LIFE/Moc/Sem título.md",
+    "Templates/0_head.md",
+    "Templates/1_notes.md",
+    "3.Caixa de Entrada/Notas/Sem título 1.md",
+    "0.Resources/books/img/O método Bullet Journal - Ryder Carroll.jpg",
+    "0.Resources/books/img/O método Bullet Journal - Ryder Carroll.webp",
+    "0.Resources/books/img/bookTemplate-20240807133652522.webp",
+    "0.Resources/books/img",
+    "0.Resources/0_Images/bookTemplate-20240807133537904.webp",
+    "0.Resources/0_Images/bookTemplate-20240807133436544.webp",
+    "index.md",
+    "Templates/4_reuniao.md",
+    "0.Resources/0_Images/Untitled.png",
+    "0.Resources/0_Images/Quarto-20240722140911661.webp",
+    "0.Resources/0_Images/bpxxqqvps4h91.gif",
+    "0.Resources/Media/books/O método Bullet Journal - Ryder Carroll.md",
+    "0.Resources/Media/0_Images/O método Bullet Journal - Ryder Carroll.jpg",
+    "0.Resources/Media/books/Solo Leveling Vol 1 (comic) -.md",
+    "Templates/scripts/manga.js",
+    "Templates/scripts/anime.js",
+    "Templates/scripts/movies.js",
+    "Templates/scripts",
+    "Templates/movies.js",
+    "Templates/movies 1.js",
+    "0.Resources/Media/boardgames",
+    "0.Resources/Media/Nova pasta",
+    "0.Resources/books",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "Locais & Viagens/Sem título.canvas"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "3.Caixa de Entrada",
+  "attachmentFolderPath": "0.Settings/img",
+  "showInlineTitle": false,
+  "useTab": false,
+  "userIgnoreFilters": null,
+  "pdfExportSettings": {
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "showRibbon": true,
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "foldHeading": true
+}

@@ -1,0 +1,196 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "0.Settings/books",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "Cover",
+            "fitStyle": "cover",
+            "includeFields": [
+              "Páginas",
+              "Lido",
+              "leitura_início",
+              "leitura_término",
+              "Status",
+              "Autor"
+            ],
+            "cardWidth": 120
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "38293b6c-d98c-419a-93a8-130be338beb4",
+          "name": "Estante Fisica",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "coverField": "Cover",
+            "fitStyle": "cover",
+            "cardWidth": 120
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "fisico",
+                "operator": "is-not-checked",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "3859ed50-47c3-4ff4-a6f8-0417dac671b6",
+          "name": "Kindle",
+          "type": "gallery"
+        }
+      ],
+      "id": "df1b58db-2fe3-4115-8369-3f689610fdd5",
+      "name": "Biblioteca"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "0.Settings/media",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "image",
+            "fitStyle": "cover",
+            "includeFields": [
+              "gênero",
+              "tipo",
+              "Título",
+              "Gênero",
+              "Ano",
+              "Tipo",
+              "Nota"
+            ],
+            "cardWidth": 120
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "assistido",
+                "operator": "is-not-checked",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "ano",
+                "order": "asc",
+                "enabled": false
+              }
+            ]
+          },
+          "id": "7f25cac5-07a9-4a2d-ae2d-c65133e78eb2",
+          "name": "Lista de Recomendações",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "coverField": "image",
+            "fitStyle": "cover",
+            "includeFields": [
+              "gênero",
+              "nota"
+            ],
+            "cardWidth": 110
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "assistido",
+                "operator": "is-checked",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "nota",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "0c19b9a3-dd93-4696-b4d0-df4a7b755256",
+          "name": "Assistidos",
+          "type": "gallery"
+        }
+      ],
+      "id": "9ed285c6-d117-4482-b744-9fff616a463b",
+      "name": "Filmes e Series"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "sunday"
+    },
+    "commands": [
+      {
+        "project": "9ed285c6-d117-4482-b744-9fff616a463b",
+        "view": "7f25cac5-07a9-4a2d-ae2d-c65133e78eb2"
+      }
+    ],
+    "linkBehavior": "open-editor"
+  }
+}

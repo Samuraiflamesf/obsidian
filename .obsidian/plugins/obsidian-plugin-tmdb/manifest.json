@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-plugin-tmdb",
+	"name": "TMDB Plugin",
+	"version": "1.5.1",
+	"minAppVersion": "0.12.0",
+	"description": "Um plugin para buscar informações de filmes usando a API TMDB.",
+	"author": "Bernardo Nogueira",
+	"authorUrl": "https://bernardonogueiracv.netlify.app",
+	"isDesktopOnly": false
+}
