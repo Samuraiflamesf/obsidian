@@ -23,7 +23,7 @@ dg-publish: true
 - 🎴 Minhas Experiências
     - [[INTERNACIONAIS]]
     - [[Brasil]]
-    - [[BAHIA ✈️]]
+    - [[Bahia]]
     - [[Salvador]]
 # 👨‍🎓 Faculdade
 - ➗ Faculdade de [[Matematica_IFBA]]
@@ -33,7 +33,7 @@ dg-publish: true
     - [[Data Discovery e Analytics]]
 - 🍲 Faculdade de [[Gastronomia_UNIFACS]]
     - [[Livros de Gastronomia]]
-# 💼 Notas de Trabalho
+# 💼 Work
 - [[MapaProjetosTrabalho]]: Notas e informações relevantes para meus projetos e tarefas de trabalho.
 - [[MapadeAtividades]]: CheckList de atividades para serem resolvidas
 - [[MapaReuniõesTrabalho]]: Anotações sobre as reuniões e eventos do Trabalho.  

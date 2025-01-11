@@ -7,48 +7,44 @@ tags:
   - pessoal/viagem
   - BRASIL
 ---
-| [Voltar](index) | [[BAHIA ✈️]] |
+| [Voltar](index) | [[Bahia]] |
 ### **Centro-Oeste**
-- [[Distrito Federal 🏛️]]
+- [[Distrito Federal]]
 - [[Goiás]]
-- [[Mato Grosso 🐆]]
-- [[Mato Grosso do Sul 🐴]]
+- [[Mato Grosso]]
+- [[Mato Grosso do Sul]]
 ### **Nordeste**
-- [[Alagoas 🌊]]
-- [[BAHIA ✈️]]
-- [[Ceará 🌞]]
-- [[Maranhão 🎋]]
-- [[Paraíba 🌅]]
-- [[Pernambuco 🎭]]
-- [[Piauí 🌻]]
-- [[Rio Grande do Norte 🐚]]
-- [[Sergipe 🦐]]
+- [[Alagoas]]
+- [[Ceará]]
+- [[Maranhão]]
+- [[Paraíba]]
+- [[Pernambuco]]
+- [[Piauí]]
+- [[Rio Grande do Norte]]
+- [[Sergipe]]
 ### **Norte**
-- [[Acre 🌴]]
-- [[Amapá 🐦]]
-- [[Amazonas 🌳]]
-- [[Pará 🏞️]]
-- [[Rondônia 🌲]]
-- [[Roraima 🏔️]]
-- [[Tocantins 🌵]]
+- [[Acre]]
+- [[Amapá]]
+- [[Amazonas]]
+- [[Pará]]
+- [[Rondônia]]
+- [[Roraima]]
+- [[Tocantins]]
 ### **Sudeste**
-- [[Espírito Santo 🏖️]]
-- [[Minas Gerais ⛏️]]
-- [[Rio de Janeiro 🌴]]
-- [[São Paulo 🏢]]
+- [[Espírito Santo]]
+- [[Minas Gerais]]
+- [[Rio de Janeiro]]
+- [[São Paulo]]
 ### **Sul**
-- [[Paraná 🌾]]
+- [[Paraná]]
 - [[Rio Grande do Sul]]
-- [[Santa Catarina 🏄]]
+- [[Santa Catarina]]
 ----
 ### Centro-Oeste
-
-- **Bonito**: Mato Grosso do Sul
-- **Alto Paraíso (Chapada dos Veadeiros)**: Goiás
-- **Pirenópolis**: Goiás
-
+- **[[Bonito]]**: Mato Grosso do Sul
+- **[[Alto Paraíso]] (Chapada dos Veadeiros)**: [[Goiás]]
+- **Pirenópolis**: [[Goiás]]
 ### Nordeste
-
 - **Fernando de Noronha**: Pernambuco
 - **João Pessoa**: Paraíba
 - **São Miguel dos Milagres**: Alagoas
@@ -57,21 +53,15 @@ tags:
 - **Aracaju**: Sergipe
     - **Lagoa dos Tambaqui e Croa do Gore**: Sergipe
 - **Lençóis Maranhenses**: Maranhão
-
 ### Norte
-
 - **Manaus**: Amazonas
-
 ### Sudeste
-
 - **Tiradentes**: Minas Gerais
 - **Rio de Janeiro**: Rio de Janeiro
 - **Poços de Caldas**: Minas Gerais
 - **Inhotim (Brumadinho)**: Minas Gerais
 - **Monte Verde**: Minas Gerais
-
 ### Sul
-
 - **Gramado**: Rio Grande do Sul
 - **Bento Gonçalves**: Rio Grande do Sul
 - **Pomerode**: Santa Catarina
