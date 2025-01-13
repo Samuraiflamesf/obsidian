@@ -215,14 +215,13 @@
       "templates:Inserir modelo": true,
       "command-palette:Abrir paleta de comandos": true,
       "graph:Abrir visualização em gráfico": true,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-plugin-tmdb:TMDB Plugin": false,
+      "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": true,
-      "homepage:Open homepage": false
+      "obsidian-plugin-tmdb:TMDB Plugin": false,
+      "obsidian-projects:Open projects": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6062b7bb3d08ed59",
