@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Index"
             }
+          },
+          {
+            "id": "306e3bd1cd9ac31c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Settings/template/trabalho.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "trabalho"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,8 +246,16 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "a91ef23958f859aa",
+  "active": "306e3bd1cd9ac31c",
   "lastOpenFiles": [
+    "2.Trabalho/Controle Aquisição BI.md",
+    "0.Settings/template/trabalho.md",
+    "2.Trabalho/App Glaucoma.md",
+    "2.Trabalho/FESF.md",
+    "2.Trabalho/App para Inventario.md",
+    "2.Trabalho/2022.12.28.md",
+    "3.Caixa de Entrada/Monitoramento Hosplog.md",
+    "Index.md",
     "3.Caixa de Entrada/PIBID - Minha experiência.md",
     "3.Caixa de Entrada/Narativa do PIBID - IFBA.md",
     "Narativa do PIBID/IFBA.md",
@@ -255,23 +278,15 @@
     "3.Caixa de Entrada/Teste.md",
     "1.Minha Vida/Brasil.md",
     "3.Caixa de Entrada/Distrito Federal.md",
-    "Index.md",
     "4.Review do Caos/Santo Amaro.md",
     "1.Minha Vida/Bahia.md",
     "2.Trabalho/Trabalho.md",
     "0.Settings/media/filmes/O Poderoso Chefão Parte II (1974).md",
     "3.Caixa de Entrada/Brincando com Área e Perímetro (Ensino Fundamental).md",
     "0.Settings/media/filmes/Central do Brasil (1998).md",
-    "3.Caixa de Entrada/2025/01/11.md",
-    "0.Settings/books/Nada pode me ferir.md",
     "0.Settings/img/Nada pode me ferir.jpg",
-    "0.Settings/books/Os segredos da mente milionária.md",
-    "0.Settings/books/Essencialismo.md",
     "0.Settings/img/Essencialismo.jpg",
-    "0.Settings/books/O homem mais rico da Babilônia.md",
     "0.Settings/img/O homem mais rico da Babilônia.jpg",
-    "3.Caixa de Entrada/Rio Grande do Sul.md",
-    "bd/bd-main/1.Minha Vida/RimWord.md",
     "bd/Obsidian/0.Settings/img/WhatsApp Image 2024-12-09 at 12.16.42.jpeg",
     "bd/Obsidian/0.Settings/img/WhatsApp Image 2024-12-09 at 12.16.42 1.webp",
     "bd/Obsidian/0.Settings/img/Untitled.png",
