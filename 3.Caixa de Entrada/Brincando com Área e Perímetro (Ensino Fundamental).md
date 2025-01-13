@@ -1,7 +1,7 @@
 ![[Pasted image 20250102212211.webp]]
 Para alunos a partir do 5o. ano do Ensino Fundamental
 Desenvolvimento: Rafaella Varzoni Manzini
-Tag: #pessoal/matematica 
+#pessoal/matematica 
 
 Objetivo:
 Divertir e reforçar conceitospreviamente conhecidos pelos alunos sobre cálculo de áreas e perímetros defiguras planas, como quadrados, retângulos e triângulos.
