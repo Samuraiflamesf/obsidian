@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c662cf3d09e7a5a1",
+        "id": "21c8aa4af162f16d",
         "type": "tabs",
         "children": [
           {
-            "id": "6062b7bb3d08ed59",
+            "id": "420f2668a219fdeb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -225,8 +225,9 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "31acab001e20823c",
+  "active": "420f2668a219fdeb",
   "lastOpenFiles": [
+    "3.Caixa de Entrada/PowerBI.md",
     "3.Caixa de Entrada/Teste.md",
     "1.Minha Vida/Brasil.md",
     "3.Caixa de Entrada/Distrito Federal.md",
@@ -257,7 +258,6 @@
     "bd/Obsidian/0.Settings/media/series/ReZERO -Starting Life in Another World- Director's Cut (2020).md",
     "bd/Obsidian/0.Settings/media/series/ReZERO -Starting Life in Another World- (2016).md",
     "bd/Obsidian/0.Settings/media/series/Pam & Tommy (2022).md",
-    "bd/Obsidian/0.Settings/media/series/Os 100 (2014).md",
     "bd/Obsidian/0.Settings/media/series",
     "bd/Obsidian/0.Settings/media/filmes",
     "bd/Obsidian/0.Settings/img/WhatsApp Image 2024-12-09 at 12.16.42.jpeg",
