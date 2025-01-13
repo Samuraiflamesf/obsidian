@@ -33,7 +33,7 @@
       {
         "id": "10483fac17a9bc76",
         "type": "tabs",
-        "dimension": 72.54335260115607,
+        "dimension": 64.0625,
         "children": [
           {
             "id": "668bcea7aa6aaf02",
@@ -52,7 +52,7 @@
       {
         "id": "f6a19e85334a3eb4",
         "type": "tabs",
-        "dimension": 27.45664739884393,
+        "dimension": 35.9375,
         "children": [
           {
             "id": "c1e187b68064b3dc",
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "right": {
     "id": "7ade48561e8780b7",
@@ -231,7 +231,7 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "668bcea7aa6aaf02",
   "lastOpenFiles": [
     "Index.md",
     "1.Minha Vida/Aracaju.md",
