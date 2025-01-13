@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21c8aa4af162f16d",
+        "id": "297e475e19229c25",
         "type": "tabs",
         "children": [
           {
-            "id": "420f2668a219fdeb",
+            "id": "a91ef23958f859aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Index"
             }
           }
         ]
@@ -223,11 +227,30 @@
       "obsidian-projects:Open projects": false,
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "420f2668a219fdeb",
+  "active": "a91ef23958f859aa",
   "lastOpenFiles": [
+    "3.Caixa de Entrada/PIBID - Minha experiência.md",
+    "3.Caixa de Entrada/Narativa do PIBID - IFBA.md",
+    "Narativa do PIBID/IFBA.md",
+    "Narativa do PIBID",
+    "0.Settings/files/RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO.pdf",
+    "0.Settings/files/RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO 1.pdf",
+    "1.Minha Vida/Matematica_IFBA.md",
+    "3.Caixa de Entrada/0.Settings/files/RESUMO.md",
+    "3.Caixa de Entrada/0.Settings/files",
+    "3.Caixa de Entrada/0.Settings",
+    "0.Settings/files/WebQuest - Analisando Gráficos.pdf",
+    "0.Settings/files/Vista do O Uso do GeoGebra e Impressora 3D como Recurso Didático para o Ensino da Geometria das Coordenadas.pdf",
+    "0.Settings/files/Utilização Lúdica do Software GeoGebra 3D.pdf",
+    "0.Settings/files/USO DA IMPRESSORA 3D NO ENSINO DE MATEMÁTICA.pdf",
+    "0.Settings/files/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO.pdf",
+    "3.Caixa de Entrada/RESUMO.md",
+    "3.Caixa de Entrada/Educação Financeira e a OLITEF.md",
+    "3.Caixa de Entrada/PIBID - ICMC USP.md",
     "3.Caixa de Entrada/PowerBI.md",
     "3.Caixa de Entrada/Teste.md",
     "1.Minha Vida/Brasil.md",
@@ -240,8 +263,6 @@
     "3.Caixa de Entrada/Brincando com Área e Perímetro (Ensino Fundamental).md",
     "0.Settings/media/filmes/Central do Brasil (1998).md",
     "3.Caixa de Entrada/2025/01/11.md",
-    "3.Caixa de Entrada/2025/01",
-    "3.Caixa de Entrada/2025",
     "0.Settings/books/Nada pode me ferir.md",
     "0.Settings/img/Nada pode me ferir.jpg",
     "0.Settings/books/Os segredos da mente milionária.md",
@@ -251,25 +272,9 @@
     "0.Settings/img/O homem mais rico da Babilônia.jpg",
     "3.Caixa de Entrada/Rio Grande do Sul.md",
     "bd/bd-main/1.Minha Vida/RimWord.md",
-    "bd/Obsidian/1.Minha Vida/RimWord.md",
-    "bd/Obsidian/3.Caixa de Entrada/RimWord - Cronograma.md",
-    "bd/Obsidian/0.Settings/media/series/Uma Questão de Química (2023).md",
-    "bd/Obsidian/0.Settings/media/series/The Old Man (2022).md",
-    "bd/Obsidian/0.Settings/media/series/Sr. & Sra. Smith (2024).md",
-    "bd/Obsidian/0.Settings/media/series/ReZERO -Starting Life in Another World- Director's Cut (2020).md",
-    "bd/Obsidian/0.Settings/media/series/ReZERO -Starting Life in Another World- (2016).md",
-    "bd/Obsidian/0.Settings/media/series/Pam & Tommy (2022).md",
-    "bd/Obsidian/0.Settings/media/series",
-    "bd/Obsidian/0.Settings/media/filmes",
     "bd/Obsidian/0.Settings/img/WhatsApp Image 2024-12-09 at 12.16.42.jpeg",
     "bd/Obsidian/0.Settings/img/WhatsApp Image 2024-12-09 at 12.16.42 1.webp",
-    "bd/Obsidian/0.Settings/img/WebQuest - Analisando Gráficos.pdf",
-    "bd/Obsidian/0.Settings/img/Vista do O Uso do GeoGebra e Impressora 3D como Recurso Didático para o Ensino da Geometria das Coordenadas.pdf",
-    "bd/Obsidian/0.Settings/img/Utilização Lúdica do Software GeoGebra 3D.pdf",
-    "bd/Obsidian/0.Settings/img/USO DA IMPRESSORA 3D NO ENSINO DE MATEMÁTICA.pdf",
     "bd/Obsidian/0.Settings/img/Untitled.png",
-    "bd/Obsidian/0.Settings/img/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO.pdf",
-    "bd/Obsidian/0.Settings/img/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO DA MATEMÁTICA- CONSTRUINDO INSTRUMENTOS DIDÁTICOS PARA A SALA DE AULA.pdf",
     "bd/Obsidian/0.Settings/img/Tab_Batalha_red.jpg",
     "bd/Obsidian/0.Settings/img/tabuleiro.png",
     "bd/Obsidian/0.Settings/img/tabuleiro.jpg",

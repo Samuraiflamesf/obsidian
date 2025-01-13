@@ -9,7 +9,8 @@ tags:
 description: Anotações sobre minha faculdade de Matemática.
 ---
 |[Voltar](index)|
-
+Minha trajetória na graduação em Matemática tem sido marcada por desafios e aprendizados enriquecedores. Este documento descreve as disciplinas cursadas até o momento, bem como a situação atual de cada uma delas. Além disso, exploro as experiências vivenciadas, incluindo atividades complementares como o PIBID.
+## Disciplinas e Situações
 | Descrição                                        | Situação |
 | ------------------------------------------------ | -------- |
 | Inglês Instrumental                              | Aprovado |
@@ -37,9 +38,14 @@ description: Anotações sobre minha faculdade de Matemática.
 | Metodologia e Prática do Ensino da Matemática II | -        |
 | Laboratório de Ensino Em Matemática              | Aprovado |
 | Metodologia da Pesquisa do Ensino de Matemática  | -        |
-| Estágio Supervisionado Em Matemática I           | Aprovado |
+| [[Estágio Supervisionado Em Matemática I]]       | Aprovado |
 | Estágio Supervisionado Em Matemática II          | -        |
 | Estágio Supervisionado Em Matemática III         | -        |
 | Estágio Supervisionado Em Matemática IV          | -        |
 | Informática Aplicada Ao Ensino da Matemática     | Aprovado |
 | [[Projeto de Matematica]]                        | -        |
+## Experiências Acadêmicas
+Minha jornada acadêmica tem sido enriquecida por diversas experiências práticas e teóricas, como:
+- [[PIBID - Minha experiência]]
+- [[Educação Financeira e a OLITEF]]
+- 

@@ -1,0 +1,9 @@
+Prezados  
+  
+Meu nome é **Bernardo Nogueira da Silva**, tenho 23 anos, e minha trajetória acadêmica é marcada por experiências diversificadas e pela busca constante por novos conhecimentos. Minha primeira experiência em uma escola pública foi durante minha formação de nível médio técnico no **CEEP Isaias Alves**, antigo ICEIA, onde cursei **Tecnologia da Informação**. Essa fase foi fundamental para despertar meu interesse pelas áreas tecnológicas e estruturou minha base de raciocínio lógico e resolução de problemas.
+  
+Em 2020, ingressei no curso de **Licenciatura em Matemática** no **IFBA**, mas, devido ao período pandêmico, as atividades acadêmicas foram interrompidas. Durante esse tempo, busquei alimentar minha curiosidade e ampliar meus horizontes, iniciando um curso de **Gastronomia** pela Universidade Salvador, **UNFACS**. Essa experiência foi enriquecedora, pois permitiu desenvolver minha criatividade e explorar habilidades que vão além das áreas tecnológicas.  
+  
+Ainda com sem data de retorno para as aulas no IFBA, iniciei a graduação em **Análise e Desenvolvimento de Sistemas** no Centro Universitário **UniFatecie**, o que fortaleceu ainda mais meu interesse por áreas aplicadas à tecnologia. Com o retorno das aulas no **IFBA**, em 2022, sinto que minha trajetória _converge_ em algo que sempre esteve presente em minha vida: o desejo de compartilhar conhecimento e impactar outras pessoas por meio da educação. A Matemática é uma área que me fascina, não apenas por sua aplicabilidade prática, mas também por sua beleza e capacidade de desenvolver o raciocínio crítico.  
+  
+Agora, no PIBID, vejo a oportunidade de unir minha formação acadêmica diversificada ao meu grande objetivo atual: ser um educador de Matemática que inspire e motive os estudantes. Espero colaborar com colegas, supervisores e professores, aprendendo com suas experiências e aplicando práticas que tornem o ensino da Matemática mais acessível, criativo e interessante.
