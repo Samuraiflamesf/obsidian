@@ -6,9 +6,9 @@
   "fileMenu": [],
   "leftRibbon": [
     {
-      "id": "digitalgarden:publish-multiple-notes",
+      "id": "obsidian-git:push",
       "icon": "sync-small",
-      "name": "Digital Garden: Publish Multiple Notes",
+      "name": "Git: Commit-and-sync",
       "mode": "any"
     }
   ],
