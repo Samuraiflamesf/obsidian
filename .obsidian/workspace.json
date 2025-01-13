@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c662cf3d09e7a5a1",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "6062b7bb3d08ed59",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Index"
             }
           }
         ]
@@ -206,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +230,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6062b7bb3d08ed59",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "1.Minha Vida/Brasil.md",
     "3.Caixa de Entrada/Distrito Federal.md",
