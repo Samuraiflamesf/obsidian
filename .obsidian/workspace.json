@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "297e475e19229c25",
+        "id": "a497b1d360283dc8",
         "type": "tabs",
         "children": [
           {
-            "id": "a91ef23958f859aa",
+            "id": "c82b23b4a22fb813",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Index"
             }
-          },
-          {
-            "id": "306e3bd1cd9ac31c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.Settings/template/trabalho.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "trabalho"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,16 +231,30 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "306e3bd1cd9ac31c",
+  "active": "c82b23b4a22fb813",
   "lastOpenFiles": [
+    "Index.md",
     "2.Trabalho/Controle Aquisição BI.md",
     "0.Settings/template/trabalho.md",
+    "0.Settings/template/trabalho_head.md",
+    "0.Settings/template/estado_head.md",
+    "0.Settings/template/book_template.md",
+    "0.Settings/template/bares_restaurantes_template.md",
+    "0.Settings/template/reuniao_head.md",
+    "0.Settings/template/moc_template.md",
+    "0.Settings/template/lugares_head.md",
+    "0.Settings/template/bares_restaurantes_head.md",
+    "0.Settings/template/museus_head.md",
+    "0.Settings/template/subViagem_head.md",
+    "0.Settings/template/viagem_head.md",
+    "0.Settings/template/bi_head.md",
+    "0.Settings/template/estudos_head.md",
+    "0.Settings/template/pos_head.md",
     "2.Trabalho/App Glaucoma.md",
     "2.Trabalho/FESF.md",
     "2.Trabalho/App para Inventario.md",
     "2.Trabalho/2022.12.28.md",
     "3.Caixa de Entrada/Monitoramento Hosplog.md",
-    "Index.md",
     "3.Caixa de Entrada/PIBID - Minha experiência.md",
     "3.Caixa de Entrada/Narativa do PIBID - IFBA.md",
     "Narativa do PIBID/IFBA.md",
@@ -263,7 +262,6 @@
     "0.Settings/files/RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO.pdf",
     "0.Settings/files/RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO 1.pdf",
     "1.Minha Vida/Matematica_IFBA.md",
-    "3.Caixa de Entrada/0.Settings/files/RESUMO.md",
     "3.Caixa de Entrada/0.Settings/files",
     "3.Caixa de Entrada/0.Settings",
     "0.Settings/files/WebQuest - Analisando Gráficos.pdf",
@@ -271,19 +269,6 @@
     "0.Settings/files/Utilização Lúdica do Software GeoGebra 3D.pdf",
     "0.Settings/files/USO DA IMPRESSORA 3D NO ENSINO DE MATEMÁTICA.pdf",
     "0.Settings/files/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO.pdf",
-    "3.Caixa de Entrada/RESUMO.md",
-    "3.Caixa de Entrada/Educação Financeira e a OLITEF.md",
-    "3.Caixa de Entrada/PIBID - ICMC USP.md",
-    "3.Caixa de Entrada/PowerBI.md",
-    "3.Caixa de Entrada/Teste.md",
-    "1.Minha Vida/Brasil.md",
-    "3.Caixa de Entrada/Distrito Federal.md",
-    "4.Review do Caos/Santo Amaro.md",
-    "1.Minha Vida/Bahia.md",
-    "2.Trabalho/Trabalho.md",
-    "0.Settings/media/filmes/O Poderoso Chefão Parte II (1974).md",
-    "3.Caixa de Entrada/Brincando com Área e Perímetro (Ensino Fundamental).md",
-    "0.Settings/media/filmes/Central do Brasil (1998).md",
     "0.Settings/img/Nada pode me ferir.jpg",
     "0.Settings/img/Essencialismo.jpg",
     "0.Settings/img/O homem mais rico da Babilônia.jpg",
