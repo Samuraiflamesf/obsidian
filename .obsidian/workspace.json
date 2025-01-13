@@ -11,10 +11,14 @@
             "id": "6062b7bb3d08ed59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3.Caixa de Entrada/Teste.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Teste"
             }
           }
         ]
@@ -221,11 +225,13 @@
       "obsidian-plugin-tmdb:TMDB Plugin": false,
       "obsidian-projects:Open projects": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
   "active": "6062b7bb3d08ed59",
   "lastOpenFiles": [
+    "3.Caixa de Entrada/Teste.md",
     "1.Minha Vida/Brasil.md",
     "3.Caixa de Entrada/Distrito Federal.md",
     "Index.md",
@@ -238,7 +244,6 @@
     "3.Caixa de Entrada/2025/01/11.md",
     "3.Caixa de Entrada/2025/01",
     "3.Caixa de Entrada/2025",
-    "3.Caixa de Entrada/Sem título.md",
     "0.Settings/books/Nada pode me ferir.md",
     "0.Settings/img/Nada pode me ferir.jpg",
     "0.Settings/books/Os segredos da mente milionária.md",
