@@ -6,7 +6,7 @@ tags:
   - pessoal/viagem
   - BA
 ---
-| [[BAHIA ✈️]] |
+| [[BAHIA]] |
 _Amigos  uma coisa muito interessante acabou de aparecer na minha mesa, provavelmente é a melhor coisa que vi nos últimos seis meses._
 **Passeio nas Ilhas Encantadas**
 Prepare-se para um passeio de um dia pelas ilhas paradisíacas que cercam Madre de Deus. Com um custo acessível entre R$ 110 e R$ 150, você embarcará em uma aventura sob o sol ameno de um sábado. Para aproveitar ao máximo, lembre-se de trazer:

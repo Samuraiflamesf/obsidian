@@ -4,7 +4,6 @@ dg-publish: true
 tags:
   - pessoal
 ---
-|[Voltar](index)|
 ![[RimWord - Criação de Personagem]]
 
 ![[RimWord - Início]]
@@ -16,3 +15,5 @@ tags:
 - Pode colocar arroz na frente do gerador eolico
 - Verificar sempre luz, temperatura interna
 - Fazer fazendinha para animais
+![[RimWord - Necessidades da Base]]
+![[RimWord - Geração de Energia]]

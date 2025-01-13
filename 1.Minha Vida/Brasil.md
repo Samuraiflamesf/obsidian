@@ -7,7 +7,7 @@ tags:
   - pessoal/viagem
   - BRASIL
 ---
-| [Voltar](index) | [[Bahia]] |
+| [Voltar](index) | [[BAHIA]] |
 ### **Centro-Oeste**
 - [[Distrito Federal]]
 - [[Goiás]]
@@ -15,6 +15,7 @@ tags:
 - [[Mato Grosso do Sul]]
 ### **Nordeste**
 - [[Alagoas]]
+- [[BAHIA]]
 - [[Ceará]]
 - [[Maranhão]]
 - [[Paraíba]]
@@ -41,30 +42,34 @@ tags:
 - [[Santa Catarina]]
 ----
 ### Centro-Oeste
-- **[[Bonito]]**: Mato Grosso do Sul
-- **[[Alto Paraíso]] (Chapada dos Veadeiros)**: [[Goiás]]
-- **Pirenópolis**: [[Goiás]]
+- **Bonito**: Mato Grosso do Sul
+- **Alto Paraíso (Chapada dos Veadeiros)**: Goiás
+- **Pirenópolis**: Goiás
+
 ### Nordeste
 - **Fernando de Noronha**: Pernambuco
 - **João Pessoa**: Paraíba
-- **São Miguel dos Milagres**: Alagoas
+- **São Miguel dos Milagres**: [[Alagoas]]
 - **Jericoacoara**: Ceará
-- **Porto de Galinhas (Ipojuca)**: Pernambuco
+- **Porto de Galinhas (Ipojuca)**: [[Pernambuco]]
 - **Aracaju**: Sergipe
     - **Lagoa dos Tambaqui e Croa do Gore**: Sergipe
-- **Lençóis Maranhenses**: Maranhão
+- **Lençóis Maranhenses**: [[Maranhão]]
+
 ### Norte
-- **Manaus**: Amazonas
+- **Manaus**: [[Amazonas]]
+
 ### Sudeste
-- **Tiradentes**: Minas Gerais
+- **Tiradentes**: [[Minas Gerais]]
 - **Rio de Janeiro**: Rio de Janeiro
-- **Poços de Caldas**: Minas Gerais
-- **Inhotim (Brumadinho)**: Minas Gerais
-- **Monte Verde**: Minas Gerais
+- **Poços de Caldas**: [[Minas Gerais]]
+- **Inhotim (Brumadinho)**: [[Minas Gerais]]
+- **Monte Verde**: [[Minas Gerais]]
+
 ### Sul
-- **Gramado**: Rio Grande do Sul
-- **Bento Gonçalves**: Rio Grande do Sul
-- **Pomerode**: Santa Catarina
-- **Canela**: Rio Grande do Sul
-- **Blumenau**: Santa Catarina
-- **Urubici**: Santa Catarina
+- **[[Gramado]]**: [[Rio Grande do Sul]]
+- **[[Bento Gonçalves]]**: [[Rio Grande do Sul]]
+- **[[Pomerode]]**: [[Santa Catarina]]
+- **[[Canela]]**: [[Rio Grande do Sul]]
+- **[[Blumenau]]**: [[Santa Catarina]]
+- **[[Urubici]]**: [[Santa Catarina]]

@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Index"
             }
+          },
+          {
+            "id": "990ddc4bb2c0e661",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "a4ddcf3927166c8d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,11 +239,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 515.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Git: Commit-and-sync": false,
       "daily-notes:Abrir a nota de hoje": true,
       "switcher:Abrir a troca rápida": true,
       "templates:Inserir modelo": true,
@@ -230,11 +259,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a4ddcf3927166c8d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Index.md",
+    "0.Settings/template/moc_template.md",
+    "0.Settings/template/lugares_head.md",
+    "0.Settings/template/estudos_head.md",
+    "0.Settings/template/estado_head.md",
+    "0.Settings/template/book_template.md",
+    "0.Settings/template/bi_head.md",
+    "0.Settings/template/bares_restaurantes_template.md",
+    "0.Settings/files/WebQuest - Analisando Gráficos.pdf",
+    "0.Settings/files/Vista do O Uso do GeoGebra e Impressora 3D como Recurso Didático para o Ensino da Geometria das Coordenadas.pdf",
+    "0.Settings/files/Utilização Lúdica do Software GeoGebra 3D.pdf",
+    "0.Settings/files/USO DA IMPRESSORA 3D NO ENSINO DE MATEMÁTICA.pdf",
+    "0.Settings/files/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO.pdf",
+    "0.Settings/files/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO DA MATEMÁTICA- CONSTRUINDO INSTRUMENTOS DIDÁTICOS PARA A SALA DE AULA.pdf",
+    "0.Settings/files/UM PROCESSO PARA UTILIZAR A TECNOLOGIA DE IMPRESSÃO 3D NA.pdf",
+    "0.Settings/files/TCC.pdf",
+    "0.Settings/files/SOFTWARES NO ENSINO DE MATEMÁTICA possibilidades de aplicação do Calques 3D.pdf",
+    "0.Settings/files/RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO.pdf",
     "1.Minha Vida/Brasil.md",
     "3.Caixa de Entrada/Distrito Federal.md",
-    "Index.md",
     "4.Review do Caos/Santo Amaro.md",
     "1.Minha Vida/Bahia.md",
     "2.Trabalho/Trabalho.md",
@@ -242,8 +289,6 @@
     "3.Caixa de Entrada/Brincando com Área e Perímetro (Ensino Fundamental).md",
     "0.Settings/media/filmes/Central do Brasil (1998).md",
     "3.Caixa de Entrada/2025/01/11.md",
-    "3.Caixa de Entrada/2025/01",
-    "3.Caixa de Entrada/2025",
     "3.Caixa de Entrada/Sem título.md",
     "0.Settings/books/Nada pode me ferir.md",
     "0.Settings/img/Nada pode me ferir.jpg",
@@ -255,25 +300,9 @@
     "3.Caixa de Entrada/Rio Grande do Sul.md",
     "bd/bd-main/1.Minha Vida/RimWord.md",
     "bd/Obsidian/1.Minha Vida/RimWord.md",
-    "bd/Obsidian/3.Caixa de Entrada/RimWord - Cronograma.md",
-    "bd/Obsidian/0.Settings/media/series/Uma Questão de Química (2023).md",
-    "bd/Obsidian/0.Settings/media/series/The Old Man (2022).md",
-    "bd/Obsidian/0.Settings/media/series/Sr. & Sra. Smith (2024).md",
-    "bd/Obsidian/0.Settings/media/series/ReZERO -Starting Life in Another World- Director's Cut (2020).md",
-    "bd/Obsidian/0.Settings/media/series/ReZERO -Starting Life in Another World- (2016).md",
-    "bd/Obsidian/0.Settings/media/series/Pam & Tommy (2022).md",
-    "bd/Obsidian/0.Settings/media/series/Os 100 (2014).md",
-    "bd/Obsidian/0.Settings/media/series",
-    "bd/Obsidian/0.Settings/media/filmes",
     "bd/Obsidian/0.Settings/img/WhatsApp Image 2024-12-09 at 12.16.42.jpeg",
     "bd/Obsidian/0.Settings/img/WhatsApp Image 2024-12-09 at 12.16.42 1.webp",
-    "bd/Obsidian/0.Settings/img/WebQuest - Analisando Gráficos.pdf",
-    "bd/Obsidian/0.Settings/img/Vista do O Uso do GeoGebra e Impressora 3D como Recurso Didático para o Ensino da Geometria das Coordenadas.pdf",
-    "bd/Obsidian/0.Settings/img/Utilização Lúdica do Software GeoGebra 3D.pdf",
-    "bd/Obsidian/0.Settings/img/USO DA IMPRESSORA 3D NO ENSINO DE MATEMÁTICA.pdf",
     "bd/Obsidian/0.Settings/img/Untitled.png",
-    "bd/Obsidian/0.Settings/img/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO.pdf",
-    "bd/Obsidian/0.Settings/img/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO DA MATEMÁTICA- CONSTRUINDO INSTRUMENTOS DIDÁTICOS PARA A SALA DE AULA.pdf",
     "bd/Obsidian/0.Settings/img/Tab_Batalha_red.jpg",
     "bd/Obsidian/0.Settings/img/tabuleiro.png",
     "bd/Obsidian/0.Settings/img/tabuleiro.jpg",
