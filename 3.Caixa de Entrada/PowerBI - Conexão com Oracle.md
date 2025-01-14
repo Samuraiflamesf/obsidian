@@ -12,4 +12,7 @@ tags:
 # Power BI
 ![[Pasted image 20250114144821.webp]]
 Deve ser passado url como: _host:port/Banco de dados_
+```
+10.17.1.30:1521/pdbprod01.ses.ba
+```
 
