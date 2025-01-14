@@ -33,7 +33,6 @@
       {
         "id": "10483fac17a9bc76",
         "type": "tabs",
-        "dimension": 64.0625,
         "children": [
           {
             "id": "668bcea7aa6aaf02",
@@ -45,23 +44,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f6a19e85334a3eb4",
-        "type": "tabs",
-        "dimension": 35.9375,
-        "children": [
-          {
-            "id": "c1e187b68064b3dc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -231,8 +213,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "0.Settings/files/Subprojeto 1.pdf",
+    "conflict-files-obsidian-git.md",
     "3.Caixa de Entrada/PIBID - Minha experiência.md",
+    "0.Settings/files/Subprojeto 1.pdf",
     "0.Settings/files/Subprojeto.pdf",
     "Index.md",
     "3.Caixa de Entrada/Monitoramento Hosplog.md",
