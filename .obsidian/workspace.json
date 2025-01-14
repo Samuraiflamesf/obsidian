@@ -74,20 +74,6 @@
             }
           },
           {
-            "id": "57c2236cabcb56af",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
             "id": "2ad7ebe01af8552f",
             "type": "leaf",
             "state": {
@@ -186,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -199,16 +185,17 @@
       "switcher:Abrir a troca rápida": true,
       "templates:Inserir modelo": true,
       "command-palette:Abrir paleta de comandos": true,
-      "graph:Abrir visualização em gráfico": true,
-      "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-plugin-tmdb:TMDB Plugin": false,
       "obsidian-projects:Open projects": false,
+      "obsidian-plugin-tmdb:TMDB Plugin": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "homepage:Open homepage": false,
+      "graph:Abrir visualização em gráfico": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "cmdr:Git: Commit-and-sync": false
+      "cmdr:Git: Commit-and-sync": false,
+      "markdown-importer:Abrir importador Markdown": true
     }
   },
   "active": "e7a7b303c61786dc",
