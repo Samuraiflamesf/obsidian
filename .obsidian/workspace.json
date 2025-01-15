@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Kliper_OrangePiZero3"
             }
+          },
+          {
+            "id": "c9a4c606b1031aeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,10 +246,16 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c9a4c606b1031aeb",
   "lastOpenFiles": [
-    "Index.md",
     "conflict-files-obsidian-git.md",
+    "1.Minha Vida/Kliper_OrangePiZero3.md",
+    "3.Caixa de Entrada/PowerBI - Conexão com Oracle.md",
+    "0.Settings/files/Subprojeto.pdf",
+    "0.Settings/files/Pasted image 20250114172418.webp",
+    "0.Settings/files/Pasted image 20250114144821.webp",
+    "0.Settings/files/Pasted image 20250114144743.webp",
+    "Index.md",
     "0.Settings/template/moc_template.md",
     "0.Settings/template/lugares_head.md",
     "0.Settings/template/estudos_head.md",
@@ -251,7 +272,6 @@
     "0.Settings/files/UM PROCESSO PARA UTILIZAR A TECNOLOGIA DE IMPRESSÃO 3D NA.pdf",
     "0.Settings/files/TCC.pdf",
     "0.Settings/files/SOFTWARES NO ENSINO DE MATEMÁTICA possibilidades de aplicação do Calques 3D.pdf",
-    "0.Settings/files/RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO.pdf",
     "1.Minha Vida/Brasil.md",
     "3.Caixa de Entrada/Distrito Federal.md",
     "4.Review do Caos/Santo Amaro.md",
@@ -270,15 +290,10 @@
     "0.Settings/books/O homem mais rico da Babilônia.md",
     "0.Settings/img/O homem mais rico da Babilônia.jpg",
     "3.Caixa de Entrada/Rio Grande do Sul.md",
-    "bd/bd-main/1.Minha Vida/RimWord.md",
-    "bd/Obsidian/1.Minha Vida/RimWord.md",
     "bd/Obsidian/0.Settings/img/WhatsApp Image 2024-12-09 at 12.16.42.jpeg",
     "bd/Obsidian/0.Settings/img/WhatsApp Image 2024-12-09 at 12.16.42 1.webp",
     "bd/Obsidian/0.Settings/img/Untitled.png",
     "bd/Obsidian/0.Settings/img/Tab_Batalha_red.jpg",
-    "bd/Obsidian/0.Settings/img/tabuleiro.png",
-    "bd/Obsidian/0.Settings/img/tabuleiro.jpg",
-    "bd/Obsidian/0.Settings/img/tabuleiro jogo_Carol.jpg",
     "1.LIFE/Moc/Fontes de Renda.canvas",
     "Sem título.canvas",
     "Sem título 1.canvas",

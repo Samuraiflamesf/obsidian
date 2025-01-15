@@ -17,5 +17,6 @@ O Programa Institucional de Bolsa de Iniciação à Docência (Pibid) foi inicia
 - Cinema no IFBA no dia 13/12: 
 	- [[RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO.pdf]]
 	- [[Narativa do PIBID - IFBA]]
+	- [[Subprojeto.pdf]]
 - Oficina do Geogebra no IFBA nos dias 22/01 e 27/01
 - 
