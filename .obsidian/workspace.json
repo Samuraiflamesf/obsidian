@@ -14,29 +14,14 @@
               "type": "markdown",
               "state": {
                 "file": "1.Minha Vida/Kliper_OrangePiZero3.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Kliper_OrangePiZero3"
             }
-          },
-          {
-            "id": "c9a4c606b1031aeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +231,7 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "c9a4c606b1031aeb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "1.Minha Vida/Kliper_OrangePiZero3.md",

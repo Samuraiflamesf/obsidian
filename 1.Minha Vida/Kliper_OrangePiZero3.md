@@ -6,48 +6,51 @@ tags:
   - pessoal/web
 ---
 | [Voltar](index) |
-Para OrangePi Debian:
-username: orangepi 
-password: orangepi
+# Baixando a ISO e instalando
+Site para baixar: [Orange Pi - Orangepi](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html)
+Seleciona debian com kernel 6.1
+Baixar a versao `debian server`
+Utilizando o balenaEtcher, instala no cartao de memoria
+
+
+# Configuração para OrangePi Debian
+**Credenciais de Acesso:**
 ```
 ssh orangepi@ip
 ```
-
-Codigo par acolocar no terminal
+- Usuário: orangepi
+- Senha: orangepi
+# Comandos para habilitar Wi-Fi
+**Habilitar Wi-Fi:**
 ```
 sudo nmcli radio wifi on
-```
-```
 sudo nmcli device wifi list
 ```
+**Conectar à Rede Wi-Fi:**
 ```
 sudo nmcli device wifi connect "Nome" password
-```
-```
 sudo nmcli connection show
 ```
+### Atualizar e Instalar o git:
 ```
 sudo apt-get update && sudo apt-get install git -y
 ```
+## Executar o Instalador Kiauh:
 ```
 cd ~ && git clone https://github.com/dw-0/kiauh.git
-```
-```
 ./kiauh/kiauh.sh
 ```
-Agora vai coloca para installar, klipper com recommended. E enter para instalar
-Depois instalar Moonraker, com Y
-Depos instalar mainsail, com macros
-Depois de instalar tudo rodar:
+* Klipper com "Recommended"
+* Moonraker (Y)
+* Mainsail com Macros
+## **Configurar o Klipper:**
+**Navegar para o Diretório do Klipper:**
 ```
 cd ~/klipper
-```
-```
 make menuconfig
-```
-```
 make
 ```
+**Listar Portas Seriais:**
 ```
 ls /dev/serial/by-id/*
 ```
