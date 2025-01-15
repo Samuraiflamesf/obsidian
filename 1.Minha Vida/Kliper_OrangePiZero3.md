@@ -64,11 +64,27 @@ make menuconfig
 make
 ```
 ![[Pasted image 20250115180327.webp]]
-**Listar Portas Seriais:**
-```
-ls /dev/serial/by-id/*
-```
-
+1. **Obtenha o arquivo gerado pelo FileZilla:**
+   - Acesse o diretório onde o arquivo foi gerado.
+   - /home/orangepi/klipper/out/klipper.bin
+2. **Transfira o arquivo para o cartão Micro SD:**
+   - Insira o cartão Micro SD em um leitor de cartão.
+   - Copie o arquivo do computador para o cartão Micro SD.
+3. **Insira o cartão Micro SD no Ender:*
+4. **Verifique a porta serial utilizada:**
+   - No terminal da impressora, execute o comando:
+     ```
+     ls /dev/serial/by-id/*
+     ```
+5. **Altere o trecho no código do printer.cfg:**
+   - Abra o arquivo `printer.cfg` em um editor de texto.
+	```
+	[mcu]
+	serial: /dev/serial/by-id/usb-1a86_USB_Serial-if00-port0
+	```
+6. **Salve o arquivo printer.cfg e reinicie a impressora:**
+   - Salve o arquivo `printer.cfg`.
+   - Reinicie a impressora para que as alterações entrem em vigor.
 
 ### Referências
 1. [Angry IP](https://angryip.org/download/#windows) 
