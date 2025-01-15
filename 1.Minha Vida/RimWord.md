@@ -9,7 +9,7 @@ tags:
 ![[RimWord - Início]]
 
 ![[RimWord - Cronograma]]
-[[RimWord - Trabalho]]
+![[RimWord - Trabalho]]
 
 #### Obs
 - Utilização das prioridades numericas de 2 a 4, sendo que irá verificar ordem,
