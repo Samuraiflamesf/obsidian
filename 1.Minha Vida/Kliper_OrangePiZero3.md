@@ -42,9 +42,11 @@ sudo apt-get update && sudo apt-get install git -y
 cd ~ && git clone https://github.com/dw-0/kiauh.git
 ./kiauh/kiauh.sh
 ```
-* Klipper com "Recommended"
-* Moonraker (Y)
-* Mainsail com Macros
+![[Pasted image 20250115152247.webp]]
+- Klipper com "Recommended", select (1)
+- Moonraker (Y), select (2)
+- Mainsail com Macros, select (3)
+- Crowsnest, select (8)
 ## **Configurar o Klipper:**
 **Navegar para o Diretório do Klipper:**
 ```
