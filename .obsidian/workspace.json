@@ -35,8 +35,7 @@
               "title": "Sem título"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +245,7 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "2668d385b1d699f4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "3.Caixa de Entrada/Sem título.md",
     "1.Minha Vida/Kliper_OrangePiZero3.md",

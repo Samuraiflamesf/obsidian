@@ -46,7 +46,12 @@ cd ~ && git clone https://github.com/dw-0/kiauh.git
 - Klipper com "Recommended", select (1)
 - Moonraker (Y), select (2)
 - Mainsail com Macros, select (3)
-- Crowsnest, select (8)
+- Crowsnest, select (8).
+Agora, você deve conseguir acesso remoto ao seu Orange Pi por meio da Internet usando seu endereço IP.
+
+# Configurando os arquivos no Mainsail
+
+
 ## **Configurar o Klipper:**
 **Navegar para o Diretório do Klipper:**
 ```
