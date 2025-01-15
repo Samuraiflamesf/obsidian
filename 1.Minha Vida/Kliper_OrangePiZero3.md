@@ -50,6 +50,7 @@ cd ~ && git clone https://github.com/dw-0/kiauh.git
 Agora, você deve conseguir acesso remoto ao seu Orange Pi por meio da Internet usando seu endereço IP.
 
 # Configurando os arquivos no Mainsail
+![[VS--YouTube-HowtoUpgradetoKlipperonanyEnder3forHighPerformance-15’48”.webp]]
 Para minha impressora Ender, com placa CR V4.2.2, preciso localizar o arquivo de configuração `printer.cfg` e copiá-lo para a pasta `Machine/Config Files`.
 Você pode encontrar o arquivo `printer.cfg` em seu repositório personalizado:
 * [My_Ender_3](https://github.com/Samuraiflamesf/My_Ender_3)
