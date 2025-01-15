@@ -6,13 +6,11 @@ tags:
   - pessoal/web
 ---
 | [Voltar](index) |
-# Baixando a ISO e instalando
-Site para baixar: [Orange Pi - Orangepi](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html)
-Seleciona debian com kernel 6.1
-Baixar a versao `debian server`
-Utilizando o balenaEtcher, instala no cartao de memoria
-
-
+# Download e Instalação da ISO
+Para obter a imagem ISO, visite o site oficial da Orange Pi: [Orange Pi - Orangepi](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html).
+- Selecione a distribuição "debian" com o kernel 6.1 e baixe a versão `debian server`.
+- Para instalar a imagem ISO no cartão de memória, use a ferramenta balenaEtcher. 
+- Siga as instruções no site oficial do balenaEtcher para concluir a instalação.
 # Configuração para OrangePi Debian
 **Credenciais de Acesso:**
 ```
@@ -28,8 +26,12 @@ sudo nmcli device wifi list
 ```
 **Conectar à Rede Wi-Fi:**
 ```
-sudo nmcli device wifi connect "Nome" password
+sudo nmcli device wifi connect "My House" password naoseiasenha
 sudo nmcli connection show
+```
+**Verificar seu endereço IP usando**
+```
+nmcli device show wlan0 | grep IP4.ADDRESS
 ```
 ### Atualizar e Instalar o git:
 ```
