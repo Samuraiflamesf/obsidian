@@ -1,5 +1,5 @@
 ---
-title: Kliper_OrangiPiZero3
+title: Instalando o Kliper no Orangi Pi Zero 3 + Webcam Basica
 dg-publish: true
 tags:
   - pessoal/estudos
