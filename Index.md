@@ -4,7 +4,7 @@ dg-home: true
 dg-publish: true
 ---
 ****
-k> Bem-vindo ao meu espaço pessoal! Este site foi criado para organizar e compartilhar minhas notas de estudo, anotações de trabalho e outros recursos úteis. Aqui você encontrará uma variedade de informações e ferramentas que uso no meu dia a dia profissional e acadêmico.
+tk> Bem-vindo ao meu espaço pessoal! Este site foi criado para organizar e compartilhar minhas notas de estudo, anotações de trabalho e outros recursos úteis. Aqui você encontrará uma variedade de informações e ferramentas que uso no meu dia a dia profissional e acadêmico.
 
 # 🌱 Minha Vida
 - 🖥️ Programação
