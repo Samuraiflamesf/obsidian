@@ -50,8 +50,12 @@ cd ~ && git clone https://github.com/dw-0/kiauh.git
 Agora, você deve conseguir acesso remoto ao seu Orange Pi por meio da Internet usando seu endereço IP.
 
 # Configurando os arquivos no Mainsail
-
-
+Para minha impressora Ender, com placa CR V4.2.2, preciso localizar o arquivo de configuração `printer.cfg` e copiá-lo para a pasta `Machine/Config Files`.
+Você pode encontrar o arquivo `printer.cfg` em seu repositório personalizado:
+* [My_Ender_3](https://github.com/Samuraiflamesf/My_Ender_3)
+Caso você tenha uma impressora diferente, consulte o repositório oficial do Klipper:
+* [Klipper3d/klipper](https://github.com/Klipper3d/klipper/tree/master/config)
+Agora esse processo é especifico para minha placa:
 ## **Configurar o Klipper:**
 **Navegar para o Diretório do Klipper:**
 ```
@@ -59,6 +63,7 @@ cd ~/klipper
 make menuconfig
 make
 ```
+![[Pasted image 20250115180327.webp]]
 **Listar Portas Seriais:**
 ```
 ls /dev/serial/by-id/*
@@ -70,8 +75,7 @@ ls /dev/serial/by-id/*
 2. [OrangePi Zero 3 ISO](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-Zero-3.html)
 3. [Balena Etcher](https://etcher.balena.io/)
 4. [Kiauh](https://github.com/dw-0/kiauh) 
-5. [Klipper4KobraGoNeo](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbllKZmFYUmFUNFZKUDMzQk9GbURFWUc4eEd2QXxBQ3Jtc0tsbXU1UlgwNWt4Q3BGQ0h6WXV0ZmlRLWR4aFBvTnRTVDd0cUpfdm1XLWpWXzlyQTdTTVFNSXN4YjJhMmRrMVB5aG12blFiUlNsdnJiSU9pTXRFaGhGRm43XzE2NEpzWUNBN2Y2VWFjWU1oVEJTeWNzRQ&q=https%3A%2F%2Fgithub.com%2F1coderookie%2FKlipper4KobraGoNeo&v=A5WO4nwDzsU)
-6. [How to Upgrade to Klipper on any Ender 3 for High Performance - YouTube](https://www.youtube.com/watch?v=N41JY1Gukuk&t=495s)
-7. [How to Install Klipper On Anycubic Kobra Go/Neo - OrangePi Zero 3 - YouTube](https://www.youtube.com/watch?v=A5WO4nwDzsU&t=1136s)
-8. [Orange Pi 3 LTS OctoPrint + Webcam - Guia Completo para Iniciantes : r/octoprint](https://www.reddit.com/r/octoprint/comments/11rjjji/orange_pi_3_lts_octoprint_webcam_beginners/?tl=pt-br)
+5. [How to Upgrade to Klipper on any Ender 3 for High Performance - YouTube](https://www.youtube.com/watch?v=N41JY1Gukuk&t=495s)
+6. [How to Install Klipper On Anycubic Kobra Go/Neo - OrangePi Zero 3 - YouTube](https://www.youtube.com/watch?v=A5WO4nwDzsU&t=1136s)
+7. [Orange Pi 3 LTS OctoPrint + Webcam - Guia Completo para Iniciantes : r/octoprint](https://www.reddit.com/r/octoprint/comments/11rjjji/orange_pi_3_lts_octoprint_webcam_beginners/?tl=pt-br)
   
