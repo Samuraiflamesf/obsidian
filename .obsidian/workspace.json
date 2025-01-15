@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "Index"
             }
-          },
-          {
-            "id": "990ddc4bb2c0e661",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "a4ddcf3927166c8d",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +33,7 @@
       {
         "id": "10483fac17a9bc76",
         "type": "tabs",
-        "dimension": 72.54335260115607,
+        "dimension": 61.041465766634516,
         "children": [
           {
             "id": "668bcea7aa6aaf02",
@@ -81,7 +52,7 @@
       {
         "id": "f6a19e85334a3eb4",
         "type": "tabs",
-        "dimension": 27.45664739884393,
+        "dimension": 38.95853423336548,
         "children": [
           {
             "id": "c1e187b68064b3dc",
@@ -99,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.5
   },
   "right": {
     "id": "7ade48561e8780b7",
@@ -239,11 +210,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 515.5
+    "width": 515.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:Git: Commit-and-sync": false,
       "daily-notes:Abrir a nota de hoje": true,
       "switcher:Abrir a troca rápida": true,
       "templates:Inserir modelo": true,
@@ -256,13 +227,14 @@
       "obsidian-plugin-tmdb:TMDB Plugin": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": true,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "a4ddcf3927166c8d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Index.md",
+    "conflict-files-obsidian-git.md",
     "0.Settings/template/moc_template.md",
     "0.Settings/template/lugares_head.md",
     "0.Settings/template/estudos_head.md",
