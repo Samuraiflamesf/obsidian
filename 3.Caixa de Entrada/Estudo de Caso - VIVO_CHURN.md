@@ -8,5 +8,9 @@ tags:
   - pessoal/web
 ---
 # Estudo de Caso - VIVO_CHURN
-Clientes que saíram no último mes (coluna CHURN). 
-E outros dados sobre serviços dos clientes q cada cliente assinou, informacoes da conta do cliente
+![[Captura de Tela 2025-01-16 às 19.31.55.webp]]
+Planilha
+![[Captura de Tela 2025-01-16 às 19.36.20.webp]]
+Objetivo: Prever a intenção de cancelamento de um usuário da Vivo.
+
+Link:
