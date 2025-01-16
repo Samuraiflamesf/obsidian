@@ -21,7 +21,7 @@ tk> Bem-vindo ao meu espaço pessoal! Este site foi criado para organizar e comp
     - [[Lista de Filmes e Series]]
     - [[Lista de Restaurantes]]
 - 🎴 Minhas Experiências
-    - [[INTERNACIONAIS]]
+    - [[Internacional]]
     - [[Brasil]]
     - [[Bahia]]
     - [[Salvador]]
