@@ -29,10 +29,11 @@ dg-publish: true
 - ➗ Faculdade de [[Matematica_IFBA]]
     - [[Estatística Geral - Teoria e Aplicações]]
 - 📊 Faculdade de [[DataScience_PUC]]
-    - [[Qualidade de Dados em Saúde para IA]]
     - [[Data Discovery e Analytics]]
 - 🍲 Faculdade de [[Gastronomia_UNIFACS]]
     - [[Livros de Gastronomia]]
+- 📝 Cursos Interessantes
+    - [[Qualidade de Dados em Saúde para IA]]
 # 💼 Work
 - [[MapaProjetosTrabalho]]: Notas e informações relevantes para meus projetos e tarefas de trabalho.
 - [[MapadeAtividades]]: CheckList de atividades para serem resolvidas
