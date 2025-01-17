@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Minha Vida/Data Discovery e Analytics.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Discovery e Analytics"
+              "title": "Index"
             }
           }
         ]
@@ -233,8 +233,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "3.Caixa de Entrada/Qual Grafico Usar.md",
     "1.Minha Vida/Data Discovery e Analytics.md",
+    "3.Caixa de Entrada/Qual Grafico Usar.md",
     "Index.md",
     "0.Settings/files/Que gráfico utilizar.pdf",
     "conflict-files-obsidian-git.md",
