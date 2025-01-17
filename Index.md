@@ -39,31 +39,31 @@ dg-publish: true
 - [[MapadeAtividades]]: CheckList de atividades para serem resolvidas
 - [[MapaReuniõesTrabalho]]: Anotações sobre as reuniões e eventos do Trabalho.  
 # 〽️ Estatísticas
-- 📖 Últimos Livros Adicionados
-    ```dataview
-    LIST FROM #livro WHERE Status = false
-    SORT file.ctime DESC
-    LIMIT 4
-    ```
-- **🎬 Últimos Filmes Adicionados**
-    ```dataview
-    LIST 
-    FROM #filme
-    WHERE assistido = false
-    SORT file.ctime DESC
-    LIMIT 4
-    ```
--   📼 Informações Gerais
-    -   📝 Total de Notas no Cofre: `$=dv.pages().filter(p => p.tags).length`
-    -   📚 Total de Livros: `$=dv.pages('#livro').length`
-    -   🍿 Total de Filmes: `$=dv.pages('#filme').length`
-# 📥 Caixa de Entrada
+### 📥 Caixa de Entrada
 ```dataview
 TABLE file.ctime as "Criado em"
 FROM "3.Caixa de Entrada"
-Limit 10
-sort file.ctime
+Limit 5
+sort file.ctime desc
 ```
+### 📖 Últimos Livros Adicionados
+```dataview
+LIST FROM #livro WHERE Status = false
+SORT file.ctime DESC
+LIMIT 5
+```
+### 🎬 Últimos Filmes Adicionados
+```dataview
+LIST 
+FROM #filme
+WHERE assistido = false
+SORT file.ctime DESC
+LIMIT 5
+```
+### 📼 Informações Gerais
+-   📝 Total de Notas no Cofre: `$=dv.pages().filter(p => p.tags).length`
+-   📚 Total de Livros: `$=dv.pages('#livro').length`
+-   🍿 Total de Filmes: `$=dv.pages('#filme').length`
 ---
 Se você tem sugestões, correções ou gostaria de contribuir de alguma forma, sinta-se à vontade para entrar em contato. Toda ajuda é bem-vinda!
 -   [E-mail](mailto:samuraiflamesf@gmail.com)
