@@ -6,6 +6,6 @@ tags:
   - pessoal/estudos
   - pessoal/puc
   - pessoal/web
+  - DataDiscoveryAnalytics
 ---
-# Qual Grafico Usar
 ![[Que gráfico utilizar.pdf]]

@@ -6,6 +6,7 @@ tags:
   - pessoal/estudos
   - pessoal/puc
   - pessoal/web
+  - DataDiscoveryAnalytics
 ---
 # Regressão Logística e multinominal
 **Logística**

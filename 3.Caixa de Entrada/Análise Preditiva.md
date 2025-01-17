@@ -6,13 +6,12 @@ tags:
   - pessoal/estudos
   - pessoal/puc
   - pessoal/web
+  - DataDiscoveryAnalytics
 ---
 ![[Análise Preditiva-20241111130642312.webp]]
 Utilizando dados históricos e atuais, analíticos antecipam eventos futuros por meio de previsões informadas.
 
-> Segundo o Gartner, a # Análise Preditivaanálise preditiva é uma forma de análise avançada que verifica dados ou conteúdos para responder à pergunta: o que é provável que aconteça no futuro?
-
-# Análise Preditiva
+*Segundo o Gartner, a Análise Preditiva é uma forma de análise avançada que verifica dados ou conteúdos para responder à pergunta: o que é provável que aconteça no futuro?*
 ## Como Estruturar?
 ![[Captura de Tela 2025-01-16 às 18.30.04.webp]]
 O plano é realizar testes com os dados em intervalos de tempo, começando com 1 ano, depois 2 anos e finalmente 3 anos. Esse processo ajudará a avaliar a confiabilidade dos dados ao longo do tempo.

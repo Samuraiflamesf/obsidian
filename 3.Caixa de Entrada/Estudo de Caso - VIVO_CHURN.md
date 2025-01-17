@@ -6,11 +6,12 @@ tags:
   - pessoal/estudos
   - pessoal/puc
   - pessoal/web
+  - DataDiscoveryAnalytics
 ---
+![[[Slides] 4. Análise Preditiva.pdf]]
 Planilha
 ![[Captura de Tela 2025-01-16 às 19.36.20.webp]]
 Objetivo: Prever a intenção de cancelamento de um usuário da Vivo. | Fonte: [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?resource=download)
-![[[Slides] 4. Análise Preditiva.pdf]]
 
 Churn: Clientes que cancelaram o serviço no último mês
 

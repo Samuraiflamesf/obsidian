@@ -6,6 +6,7 @@ tags:
   - pessoal/estudos
   - pessoal/puc
   - pessoal/web
+  - DataDiscoveryAnalytics
 ---
 # Regressão Linear
 - Usar quando é de natureza contínua.

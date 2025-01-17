@@ -6,6 +6,7 @@ tags:
   - pessoal/estudos
   - pessoal/puc
   - pessoal/web
+  - DataDiscoveryAnalytics
 ---
 # Regressão para variáveis categóricas
 - O jeito mais comum e transformar as variaveis categoricas em variaveis Dummy.

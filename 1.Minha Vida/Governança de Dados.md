@@ -5,6 +5,7 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
+  - DataDiscoveryAnalytics
 ---
 | [Voltar](index) |
 ## Resenha sobre o assunto:
