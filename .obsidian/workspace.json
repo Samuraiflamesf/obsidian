@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "9829a21e5cc7d1c5",
         "type": "tabs",
         "children": [
           {
-            "id": "381f9131d03fa7d0",
+            "id": "27f354d5bbc86826",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Minha Vida/Conventional Commits.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conventional Commits"
-            }
-          },
-          {
-            "id": "8f5c32ef0c8cc44f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Minha Vida/Dominando LaTeX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dominando LaTeX"
-            }
-          },
-          {
-            "id": "54db11902b6abe0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Caixa de Entrada/Migrates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Migrates"
+              "title": "Index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,34 +197,34 @@
       "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "54db11902b6abe0c",
+  "active": "27f354d5bbc86826",
   "lastOpenFiles": [
-    "3.Caixa de Entrada/Lugares 0800.md",
-    "1.Minha Vida/Limpeza de dados - Pandas.md",
-    "3.Caixa de Entrada/Largo Tereza Batista.md",
-    "3.Caixa de Entrada/KPI.md",
-    "1.Minha Vida/Estudo de Caso - VIVO_CHURN.md",
-    "3.Caixa de Entrada/Educação Financeira e a OLITEF.md",
-    "1.Minha Vida/Git Tricks, Bug and Fix.md",
-    "1.Minha Vida/Dominando LaTeX.md",
-    "1.Minha Vida/documentclass LATEX.md",
-    "1.Minha Vida/Dicionario Data Discovery.md",
-    "1.Minha Vida/Deploy Laravel com Coolify.md",
-    "3.Caixa de Entrada/Costa Azul.md",
-    "3.Caixa de Entrada/Definicao de Produtividade.md",
-    "3.Caixa de Entrada/Cozinha Européia.md",
-    "1.Minha Vida/Conventional Commits.md",
-    "3.Caixa de Entrada/Centro Cultural Solar Ferrão.md",
-    "1.Minha Vida/Brincando com Área e Perímetro (Ensino Fundamental).md",
-    "1.Minha Vida/Análise Preditiva.md",
-    "Index.md",
-    "1.Minha Vida/Aprendizagem de máquina.md",
-    "1.Minha Vida/Data Discovery e Analytics.md",
-    "3.Caixa de Entrada/OLAP.md",
-    "1.Minha Vida/Governança de Dados.md",
-    "1.Minha Vida/DataScience_PUC.md",
-    "conflict-files-obsidian-git.md",
-    "3.Caixa de Entrada/RimWord - Trabalho.md",
+    "1.Minha Vida/SSD.md",
+    "3.Caixa de Entrada/Tutoriais do YouTube.md",
+    "1.Minha Vida/SAFTEC_CMS.md",
+    "1.Minha Vida/PowerBI - Conexão com Oracle.md",
+    "1.Minha Vida/Portainer.md",
+    "1.Minha Vida/PIBID - Minha experiência.md",
+    "1.Minha Vida/PIBID - ICMC USP.md",
+    "3.Caixa de Entrada/Monitoramento Hosplog.md",
+    "4.Review do Caos/Praça das Artes.md",
+    "4.Review do Caos/Museu de Impresa - Associação Bahiana de Imprensa.md",
+    "4.Review do Caos/Lugares 0800.md",
+    "4.Review do Caos/Goiás.md",
+    "4.Review do Caos/Distrito Federal.md",
+    "4.Review do Caos/Bar Tal.md",
+    "1.Minha Vida/Narativa do PIBID - IFBA.md",
+    "1.Minha Vida/Novo SGA.md",
+    "4.Review do Caos/Pernambuco.md",
+    "1.Minha Vida/Projeto em Gastronomia Aplicada.md",
+    "1.Minha Vida/RimWord - Trabalho.md",
+    "4.Review do Caos/Rio de Janeiro.md",
+    "4.Review do Caos/Rio Grande do Sul.md",
+    "1.Minha Vida/OLAP.md",
+    "3.Caixa de Entrada/NGINX Proxy Manager.md",
+    "1.Minha Vida/Model.md",
+    "1.Minha Vida/Migrates.md",
+    "4.Review do Caos/Minas Gerais.md",
     "0.Settings/files/[Slides] 4. Análise Preditiva.pdf",
     "0.Settings/files/VS--YouTube-HowtoUpgradetoKlipperonanyEnder3forHighPerformance-15’48”.webp",
     "0.Settings/files/Que gráfico utilizar.pdf",

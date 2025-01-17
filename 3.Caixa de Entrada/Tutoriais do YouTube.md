@@ -13,12 +13,8 @@ Nesta nota, estão organizados links para tutoriais e playlists de cursos que ab
 
 ### 📜 [[Dominando LaTeX]]
 - Dominando LaTeX: Documentação Profissional
-- **Playlist completa**: 
-
 ### 👾 [[Explorando Dados com Python: Do Básico ao Avançado]]
 - Descrição: Curso completo de Python, incluindo tópicos como manipulação de dados, funções e módulos.
-- **Playlist completa** 
-    - 
 - **Vídeos recomendados**  
   - Introdução ao Python – [Link](https://youtube.com/introducao-python)
   - Manipulação de listas e dicionários – [Link](https://youtube.com/listas-dicionarios)
