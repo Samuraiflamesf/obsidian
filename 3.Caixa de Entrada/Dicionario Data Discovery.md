@@ -1,6 +1,6 @@
 ---
 Title: Dicionario Data Discovery
-created: 2024-11-11
+created: 2024-11-10
 dg-publish: true
 tags:
   - pessoal/estudos
@@ -8,18 +8,22 @@ tags:
   - pessoal/web
   - DataDiscoveryAnalytics
 ---
-
-KPI = Indicadores
-NPS = Net Promoter Score é uma metrica de satisfação
-    ![[Pasted image 20240626124837.png|713]]
-SSD = Sistema de suporte a decisao
-Queries = consultas
-OLAP é projeto e construção de aplicações, Processamento analitico online
-Data Mining ou KDD = minerar dados, ou seja, Buscar dados
-Big Data = Conjuntos de dados gigantescos
-DRILL/ROLL = Movimento de filtros, tem 4 tipos:
-- Down-Descer um nivel
-- Up-Sobre um nivel
-- Across-Pula niveis, ou seja vai de 1 para 4
-- Throught- Troca de oticas, Troca de dimensões, navegar entre hieraquias
-PIVOT = É girar o cubo(dimensões)
+Net Promoter Score é uma metrica de satisfação - NPS
+![[Pasted image 20240626124837.png|713]]
+Indicadores-Chave de Desempenho - KPI 
+Sistemas de Suporte à Decisão - SSD
+- Consultas: Perguntas feitas ao SSD para obter informações.
+**Processamento Analítico Online - OLAP :** 
+- Criação de aplicações para analisar dados em tempo real.
+**Mineração de Dados - KDD :** 
+- Processo de extração de padrões e informações úteis de grandes conjuntos de dados.
+**Big Data:** 
+- Conjuntos de dados extremamente grandes e complexos.
+**Movimento de Filtros (DRILL/ROLL):** 
+- Tipos de movimentos aplicados a filtros para ajustar a exibição dos dados:
+* **Descer (Down):** Exibe um nível mais detalhado.
+* **Subir (Up):** Exibe um nível mais agregado.
+* **Saltar (Across):** Pula vários níveis.
+* **Trocar (Throught):** Troca entre dimensões ou hierarquias.
+**PIVOT:** 
+- Operação que gira as dimensões do cubo de dados para exibir diferentes perspectivas.

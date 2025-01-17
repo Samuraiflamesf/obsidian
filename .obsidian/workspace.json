@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "3.Caixa de Entrada/OLAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "OLAP"
             }
           }
         ]
@@ -199,8 +199,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "1.Minha Vida/Data Discovery e Analytics.md",
+    "3.Caixa de Entrada/Dicionario Data Discovery.md",
+    "3.Caixa de Entrada/Análise Preditiva.md",
+    "1.Minha Vida/Governança de Dados.md",
+    "1.Minha Vida/DataScience_PUC.md",
     "Index.md",
+    "conflict-files-obsidian-git.md",
     "3.Caixa de Entrada/RimWord - Trabalho.md",
     "3.Caixa de Entrada/Regressão.md",
     "3.Caixa de Entrada/Regressão para variáveis categóricas.md",
@@ -234,11 +239,6 @@
     "1.Minha Vida/Madre de deus.md",
     "1.Minha Vida/RimWord.md",
     "1.Minha Vida/BRASIL.md",
-    "3.Caixa de Entrada/Cozinha Européia.md",
-    "3.Caixa de Entrada/Projeto em Gastronomia Aplicada.md",
-    "3.Caixa de Entrada/Museu de Impresa - Associação Bahiana de Imprensa.md",
-    "3.Caixa de Entrada/Praia do Flamengo.md",
-    "3.Caixa de Entrada/Rio de Janeiro.md",
     "Narativa do PIBID",
     "0.Settings/files/RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO.pdf",
     "0.Settings/files/RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO 1.pdf",

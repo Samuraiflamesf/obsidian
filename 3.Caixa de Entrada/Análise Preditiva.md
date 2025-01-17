@@ -1,6 +1,6 @@
 ---
 Title: Análise Preditiva
-created: 2024-11-11
+created: 2025-01-16
 dg-publish: true
 tags:
   - pessoal/estudos
