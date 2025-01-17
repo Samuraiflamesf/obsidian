@@ -6,6 +6,7 @@ tags:
   - pessoal/estudos
   - pessoal/puc
   - pessoal/web
+  - DataDiscoveryAnalytics
 ---
 São sistemas que daram apoio a solucionar um problema gerencial.
 Modelo estático:

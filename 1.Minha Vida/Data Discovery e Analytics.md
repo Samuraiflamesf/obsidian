@@ -8,13 +8,9 @@ tags:
   - pessoal/web
 ---
 | [Voltar](index) |
-![[Dicionario Data Discovery]]
-# KPI 
-![[KPI]]
-# SSD
-![[SSD]]
+```dataview
+table file.mtime as "Última Modificação"
+from #DataDiscoveryAnalytics
+sort file.mtime asc
 
-# OLAP
-![[OLAP]]
-# Análise Preditiva
-![[Análise Preditiva]]
+```
