@@ -18,4 +18,4 @@ tags:
 ![[OLAP]]
 # Análise Preditiva
 ![[Análise Preditiva]]
-![[Qual Grafico Usar]]
+![[Qual Grafico Usar]]![[Estudo de Caso - VIVO_CHURN]]
