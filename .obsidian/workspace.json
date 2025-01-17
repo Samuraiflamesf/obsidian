@@ -11,14 +11,32 @@
             "id": "27f354d5bbc86826",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "0.Settings/files/[Slides] 4. Análise Preditiva.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "[Slides] 4. Análise Preditiva"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bb65d3f7a9ea5203",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fc6869124495c2c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "3.Caixa de Entrada/Outlines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Outlines"
             }
           }
         ]
@@ -50,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "7ade48561e8780b7",
@@ -199,6 +218,10 @@
   },
   "active": "27f354d5bbc86826",
   "lastOpenFiles": [
+    "3.Caixa de Entrada/Outlines.md",
+    "0.Settings/files/[Slides] 4. Análise Preditiva.pdf",
+    "1.Minha Vida/Estudo de Caso - VIVO_CHURN.md",
+    "Index.md",
     "1.Minha Vida/SSD.md",
     "3.Caixa de Entrada/Tutoriais do YouTube.md",
     "1.Minha Vida/SAFTEC_CMS.md",
@@ -221,11 +244,6 @@
     "4.Review do Caos/Rio de Janeiro.md",
     "4.Review do Caos/Rio Grande do Sul.md",
     "1.Minha Vida/OLAP.md",
-    "3.Caixa de Entrada/NGINX Proxy Manager.md",
-    "1.Minha Vida/Model.md",
-    "1.Minha Vida/Migrates.md",
-    "4.Review do Caos/Minas Gerais.md",
-    "0.Settings/files/[Slides] 4. Análise Preditiva.pdf",
     "0.Settings/files/VS--YouTube-HowtoUpgradetoKlipperonanyEnder3forHighPerformance-15’48”.webp",
     "0.Settings/files/Que gráfico utilizar.pdf",
     "0.Settings/files/Pasted image 20250115180327.webp",
