@@ -30,6 +30,7 @@ dg-publish: true
     - [[Estatística Geral - Teoria e Aplicações]]
 - 📊 Faculdade de [[DataScience_PUC]]
     - [[Data Discovery e Analytics]]
+    - [[esta]]
 - 🍲 Faculdade de [[Gastronomia_UNIFACS]]
     - [[Livros de Gastronomia]]
 - 📝 Cursos Interessantes
