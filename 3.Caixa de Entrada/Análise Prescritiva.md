@@ -6,6 +6,7 @@ tags:
   - pessoal/estudos
   - pessoal/puc
   - pessoal/web
+  - DataDiscoveryAnalytics
 ---
 As análises preditivas antecipam eventos futuros em potencial, enquanto as análises prescritivas fornecem orientações específicas para responder a esses resultados prováveis.
 
@@ -21,3 +22,6 @@ A previsão é um subconjunto da predição. Enquanto a predição faz declaraç
 - Prever falhas nno equipamento, o que prevè a manutencção no momento certo.
 
 ![[Aprendizagem de máquina]]
+
+# Cenarização
+Envolve criar múltiplos cenários hipotéticos ("e se") para avaliar possíveis resultados ou ações apropriadas.
