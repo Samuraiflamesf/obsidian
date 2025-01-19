@@ -34,6 +34,16 @@
               "icon": "lucide-file",
               "title": "Análise Prescritiva"
             }
+          },
+          {
+            "id": "0a5d8046f52618a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ],
         "currentTab": 1
@@ -195,9 +205,11 @@
   },
   "active": "7a119b65215998d1",
   "lastOpenFiles": [
-    "0.Settings/template/pos_head.md",
-    "1.Minha Vida/DataScience_PUC.md",
     "3.Caixa de Entrada/Análise Prescritiva.md",
+    "1.Minha Vida/Análise Preditiva.md",
+    "1.Minha Vida/Aprendizagem de máquina.md",
+    "1.Minha Vida/DataScience_PUC.md",
+    "0.Settings/template/pos_head.md",
     "conflict-files-obsidian-git.md",
     "4.Review do Caos/Rio de Janeiro.md",
     "4.Review do Caos/Rio Grande do Sul.md",
@@ -219,8 +231,6 @@
     "1.Minha Vida/SAFTEC_CMS.md",
     "1.Minha Vida/RimWord - Trabalho.md",
     "1.Minha Vida/RimWord - Necessidades da Base.md",
-    "1.Minha Vida/RimWord - Geração de Energia.md",
-    "1.Minha Vida/RimWord - Cronograma.md",
     "3.Caixa de Entrada/2025/01",
     "3.Caixa de Entrada/2025",
     "0.Settings/files/Captura de Tela 2025-01-16 às 19.31.55.webp",

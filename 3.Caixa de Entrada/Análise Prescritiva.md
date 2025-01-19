@@ -15,4 +15,9 @@ As análises preditivas antecipam eventos futuros em potencial, enquanto as aná
 **Diferenciação entre Previsão e Predicação**
 A previsão é um subconjunto da predição. Enquanto a predição faz declarações genéricas sobre eventos futuros, a previsão se concentra especificamente em eventos relacionados ao tempo.
 
-*Exemplos claores são Waze e Google Maps.*
+*Exemplos:
+- Aplicativos são Waze e Google Maps.
+- Calcular as vendas anteirores de um produto com finalidade de determinar o número de substiuições.
+- Prever falhas nno equipamento, o que prevè a manutencção no momento certo.
+
+![[Aprendizagem de máquina]]
