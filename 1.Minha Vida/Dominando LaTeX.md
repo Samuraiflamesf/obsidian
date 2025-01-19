@@ -8,5 +8,5 @@ tags:
 ---
 | [Voltar]() |
 ## Mais informçãoes sobre \documentclass 
-![[documentclass]]
+![[documentclass LATEX]]
 ## 

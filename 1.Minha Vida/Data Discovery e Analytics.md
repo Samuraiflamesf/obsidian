@@ -11,6 +11,5 @@ tags:
 ```dataview
 table file.mtime as "Última Modificação"
 from #DataDiscoveryAnalytics
-sort file.mtime asc
-
+sort created asc
 ```
