@@ -17,5 +17,5 @@ DevOps faz uso de uma série de princípios que seguem abaixo a primeira parte:
 - **[[Infraestrutura como Código]] (IaC -** **_Infrastructure as Code_****): é uma forma de definir os recursos utilizados e arquiteturas dos sistemas de forma descritiva, podendo ser armazenadas e versionadas;
 - [[Gestão de Configurações]]
 - **[[Monitoramento Contínuo]]** **_(Continuous Monitoring)_**: com essa prática é possível ter visibilidade em tempo real sobre o estado de uma aplicação. Esse monitoramento é feito usando coletas de telemetria, metadados, criando alarmes em casos críticos, dentre outros;
-- **[[Comunicação & Colaboração]] (****_Agile_****)**: é prática de compartilhamento de informação dentro da equipe, o objetivo é facilitar a comunicação e compartilhamento de contexto;
 - **[[Automação]]**: possibilita um ganho de velocidade nos processos da equipe, partindo do desenvolvimento, integração até os testes.
+- **[[Comunicação & Colaboração]] (****_Agile_****)**: é prática de compartilhamento de informação dentro da equipe, o objetivo é facilitar a comunicação e compartilhamento de contexto;
