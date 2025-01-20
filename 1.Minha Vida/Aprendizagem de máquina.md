@@ -18,4 +18,5 @@ A AM baseia-se em princípios e resultados de vários campos, incluindo:
 * Ciência Cognitiva
 * Complexidade Computacional
 * Teoria de Controle
+
 Em uma abordagem semelhante, Alpaydin define Aprendizado de Máquina como treinar computadores para aprimorar os resultados usando dados anteriores, também conhecidos como exemplos ou dados de entrada. O objetivo é capacitar essas técnicas a "aprender" como resolver problemas de forma autônoma.

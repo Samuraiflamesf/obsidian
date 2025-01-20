@@ -6,7 +6,7 @@ tags:
   - pessoal/estudos
   - pessoal/quaseumdev
 ---
-| [Voltar](index) | [[Introdução ao Pandas]] |
+ | [Voltar](index) | [[Introdução ao Pandas]] |
 ### Importar o arquivo, e forçar usar um outr tipo de codificação
  ```python
 # codificação = latin1 / utf8 / cp1252 / outra codificação
@@ -54,7 +54,7 @@ dados['Vento'] = pd.to_numeric(dados['Vento'], errors='coerce')
 # If ‘coerce’, then invalid parsing will be set as NaN.
 # If ‘ignore’, then invalid parsing will return the input.
 ```
-### Trocar os números pelo conteúdo das categorias, o python não precisa que as categorias sejam códigos (apenas para regressão)
+### Trocar os números pelo conteúdo das categorias, o python não precisa que as categorias sejam códigos (apenas para regressão) - **Variáveis [[Dummy]]**
  ```python
 # Já se sabe pela documentação da Base de dados que:
 # 1 = partos vaginais
