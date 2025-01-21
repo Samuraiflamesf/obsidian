@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataOps
 ---
 - Gerenciamento de código por meio de versões;

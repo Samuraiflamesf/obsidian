@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataDiscoveryAnalytics
 ---
 KPI é indicador, sua criação é junção de Objetivos com as Métricas.

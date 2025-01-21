@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataDiscoveryAnalytics
 ---
 Net Promoter Score é uma metrica de satisfação - NPS

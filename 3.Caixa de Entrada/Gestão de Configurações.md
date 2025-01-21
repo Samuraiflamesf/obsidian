@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataOps
 ---
 - Gerenciamento do estado dos recursos em um sistema, incluindo servidores, máquinas virtuais e bancos de dados;

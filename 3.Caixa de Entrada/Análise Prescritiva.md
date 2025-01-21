@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataDiscoveryAnalytics
 ---
 As análises preditivas antecipam eventos futuros em potencial, enquanto as análises prescritivas fornecem orientações específicas para responder a esses resultados prováveis.

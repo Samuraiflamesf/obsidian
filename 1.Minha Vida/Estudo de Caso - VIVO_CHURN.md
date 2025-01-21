@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataDiscoveryAnalytics
 ---
 ![[[Slides] 4. Análise Preditiva.pdf]]

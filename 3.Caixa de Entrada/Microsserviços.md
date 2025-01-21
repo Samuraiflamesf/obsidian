@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataOps
 ---
 - Aplicativo único como um conjunto de pequenos serviços;

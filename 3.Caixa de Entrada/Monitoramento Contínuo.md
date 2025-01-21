@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataOps
 ---
 - Ter visibilidade total e em tempo real sobre o desempenho e a integridade de toda a pilha de aplicativos;

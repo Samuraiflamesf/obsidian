@@ -4,7 +4,6 @@ created: 2024-05-31
 dg-publish: true
 tags:
   - pessoal/estudos
-  - pessoal/web
   - Filament
   - php
 ---

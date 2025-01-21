@@ -3,7 +3,6 @@ dg-publish: true
 title: Introdução ao Pandas
 created: 2024-07-17
 tags:
-  - pessoal/web
   - pessoal/estudos
   - python
 ---

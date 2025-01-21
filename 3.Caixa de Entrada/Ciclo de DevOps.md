@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataOps
 ---
 O ciclo de DevOps é um ciclo infinito que mostra o relacionamento das fases do ciclo de vida de DevOps. Este ciclo apresenta a constante colaboração da equipe em conjunto com a constante melhoria iterativa durante o ciclo de vida de um produto.

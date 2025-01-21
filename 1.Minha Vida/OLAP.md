@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataDiscoveryAnalytics
 ---
 É utilização de ferramentas de análises de dados e Bi como armazenamento de dados, para ajudar na solução de problemas. 
