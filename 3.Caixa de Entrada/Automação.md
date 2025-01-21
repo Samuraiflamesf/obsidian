@@ -6,6 +6,7 @@ tags:
   - pessoal/estudos
   - pessoal/puc
   - DataOps
+  - exclude
 ---
 Utilizar Automação em DevOps para criar alertas/alarmes;
 - Permite que as equipes se movam muito mais rapidamente pelo processo de desenvolvimento e implantação de software de alta qualidade.

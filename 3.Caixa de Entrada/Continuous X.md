@@ -7,5 +7,5 @@ tags:
   - pessoal/puc
   - DataOps
 ---
-- Ativos de ML = modelo + parâmetros + hiperparâmetros + scripts de treinamento + dados de treinamento/teste;
+- Ativos de ML = modelo + parâmetros + hiperparâmetros + [[scripts de treinamento]] + [[dados de treinamento ou teste]];
 - Um serviço de implantação fornece orquestracão, registro, monitoramento e notificacão para garantir que os modelos de ML, o código e os artefatos de dados sejam estáveis.

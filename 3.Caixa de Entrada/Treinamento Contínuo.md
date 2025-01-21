@@ -7,3 +7,10 @@ tags:
   - pessoal/puc
   - DataOps
 ---
+- É a busca por treinar um modelo de ML automaticamente;
+- Podem ter gatilhos para iniciar o treino:
+	- Atualização no código;
+	- Atualização na dado;
+	- Ocorrência de um intervalo de tempo;
+	- Disparo manual;
+- Nesses casos, para aumentar a automação: usa-se [[AutoML]];
