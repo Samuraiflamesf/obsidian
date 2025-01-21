@@ -8,59 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "487f1cc1b9f7394e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Caixa de Entrada/MLOps.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MLOps"
+              "title": "Index"
             }
           },
           {
-            "id": "324a6e7de204a401",
+            "id": "b0aa37a7ada6ac00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Caixa de Entrada/Princípios de MLOps.md",
+                "file": "3.Caixa de Entrada/Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Princípios de MLOps"
-            }
-          },
-          {
-            "id": "d3fb4507f7de761f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Caixa de Entrada/DataOps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DataOps"
-            }
-          },
-          {
-            "id": "28518db3ea35a6b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Caixa de Entrada/Detecção de data drift em um dataset.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Detecção de data drift em um dataset"
+              "title": "Sem título"
             }
           }
         ],
@@ -76,7 +48,6 @@
       {
         "id": "10483fac17a9bc76",
         "type": "tabs",
-        "dimension": 61.041465766634516,
         "children": [
           {
             "id": "668bcea7aa6aaf02",
@@ -89,9 +60,36 @@
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
             }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7ade48561e8780b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "745bd7a7e376a3fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f026c6d06d316875",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
           },
           {
-            "id": "9e18087220f06bd1",
+            "id": "2ad7ebe01af8552f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,7 +106,7 @@
             }
           },
           {
-            "id": "dcec1584ec694c01",
+            "id": "6c889d10c74fe0aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,48 +114,33 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
-          }
-        ]
-      },
-      {
-        "id": "f6a19e85334a3eb4",
-        "type": "tabs",
-        "dimension": 38.95853423336548,
-        "children": [
+          },
           {
-            "id": "c1e187b68064b3dc",
+            "id": "2a398feee2b2a420",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
-  },
-  "right": {
-    "id": "7ade48561e8780b7",
-    "type": "split",
-    "children": [
-      {
-        "id": "745bd7a7e376a3fd",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "7f02a9d97eded469",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
           {
             "id": "a6fe1f222adeda45",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Caixa de Entrada/Análise Prescritiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Análise Prescritiva"
+              "title": "Backlinks"
             }
           },
           {
@@ -175,11 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3.Caixa de Entrada/Análise Prescritiva.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Sumário de Análise Prescritiva"
+              "title": "Sumário"
             }
           },
           {
@@ -201,98 +182,84 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b47013d93f4694c4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "3.Caixa de Entrada/Análise Prescritiva.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída para Análise Prescritiva"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 515.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-book-search-plugin:Create new book note": false,
+      "daily-notes:Abrir a nota de hoje": true,
+      "switcher:Abrir a troca rápida": true,
+      "templates:Inserir modelo": true,
+      "command-palette:Abrir paleta de comandos": true,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-plugin-tmdb:TMDB Plugin": false,
       "obsidian-projects:Open projects": false,
+      "obsidian-plugin-tmdb:TMDB Plugin": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "homepage:Open homepage": false,
-      "cmdr:Git: Commit-and-sync": false,
+      "graph:Abrir visualização em gráfico": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "cmdr:Git: Commit-and-sync": false
     }
   },
-  "active": "324a6e7de204a401",
+  "active": "b0aa37a7ada6ac00",
   "lastOpenFiles": [
-    "3.Caixa de Entrada/MLOps.md",
     "3.Caixa de Entrada/Princípios de MLOps.md",
-    "0.Settings/files/Captura de Tela 2025-01-20 às 22.39.48.webp",
+    "3.Caixa de Entrada/MLOps.md",
     "3.Caixa de Entrada/Detecção de data drift em um dataset.md",
-    "3.Caixa de Entrada/Concept Drift.md",
     "3.Caixa de Entrada/DataOps.md",
     "3.Caixa de Entrada/Data Drift.md",
-    "0.Settings/files/Pasted image 20250120222920.webp",
+    "3.Caixa de Entrada/Concept Drift.md",
     "3.Caixa de Entrada/Comunicação & Colaboração.md",
-    "3.Caixa de Entrada/Princípios de DevOps.md",
     "3.Caixa de Entrada/Automação.md",
-    "3.Caixa de Entrada/Monitoramento Contínuo.md",
+    "0.Settings/files/Pasted image 20250120222920-1.webp",
+    "0.Settings/files/Captura de Tela 2025-01-20 às 22.39.48-1.webp",
     "Index.md",
-    "conflict-files-obsidian-git.md",
-    "3.Caixa de Entrada/Microsserviços.md",
-    "3.Caixa de Entrada/Integração Contínua.md",
+    "3.Caixa de Entrada/Sem título.md",
+    "3.Caixa de Entrada/Monitoramento Contínuo.md",
+    "3.Caixa de Entrada/Princípios de DevOps.md",
     "3.Caixa de Entrada/Infraestrutura como Código.md",
     "3.Caixa de Entrada/Gestão de Configurações.md",
-    "3.Caixa de Entrada/Fundamentos de DevOps.md",
-    "3.Caixa de Entrada/Entrega Contínua.md",
-    "3.Caixa de Entrada/Dummy.md",
-    "3.Caixa de Entrada/DevOps.md",
     "3.Caixa de Entrada/Cultura e Práticas DataOps e MLOps.md",
+    "3.Caixa de Entrada/Entrega Contínua.md",
     "3.Caixa de Entrada/Cultura DataOps.md",
+    "3.Caixa de Entrada/Integração Contínua.md",
     "3.Caixa de Entrada/Controle de Versão.md",
-    "3.Caixa de Entrada/Ciclo de DevOps.md",
+    "3.Caixa de Entrada/DevOps.md",
+    "3.Caixa de Entrada/Microsserviços.md",
     "0.Settings/files/Pasted image 20250120135110.webp",
+    "1.Minha Vida/Data Discovery e Analytics.md",
+    "3.Caixa de Entrada/Fundamentos de DevOps.md",
+    "3.Caixa de Entrada/Ciclo de DevOps.md",
     "0.Settings/files/Pasted image 20250120132522.webp",
+    "conflict-files-obsidian-git.md",
+    "1.Minha Vida/Limpeza de dados - Pandas.md",
     "0.Settings/files/Captura de Tela 2025-01-19 às 18.28.51-1.webp",
-    "3.Caixa de Entrada/Análise Prescritiva.md",
-    "3.Caixa de Entrada/PowerBI.md",
-    "0.Settings/files/Captura de Tela 2025-01-19 às 18.28.51.webp",
-    "3.Caixa de Entrada/2025/01",
-    "3.Caixa de Entrada/2025",
-    "0.Settings/files/Captura de Tela 2025-01-16 às 19.31.55.webp",
     "0.Settings/files/[Slides] 4. Análise Preditiva.pdf",
+    "0.Settings/files/VS--YouTube-HowtoUpgradetoKlipperonanyEnder3forHighPerformance-15’48”.webp",
     "0.Settings/files/Que gráfico utilizar.pdf",
-    "0.Settings/files/Captura de Tela 2025-01-16 às 19.36.20.webp",
-    "0.Settings/files/Captura de Tela 2025-01-16 às 19.03.45.webp",
-    "0.Settings/files/Captura de Tela 2025-01-16 às 18.59.16.webp",
+    "0.Settings/files/Pasted image 20250115180327.webp",
+    "0.Settings/files/Pasted image 20250115152247.webp",
+    "0.Settings/files/Pasted image 20250115143037.webp",
+    "0.Settings/files/Pasted image 20250115142853.webp",
+    "0.Settings/files/Subprojeto 1.pdf",
     "0.Settings/files/Subprojeto.pdf",
+    "Narativa do PIBID",
+    "0.Settings/files/RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO.pdf",
+    "0.Settings/files/RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO 1.pdf",
+    "3.Caixa de Entrada/0.Settings/files",
+    "3.Caixa de Entrada/0.Settings",
     "0.Settings/files/WebQuest - Analisando Gráficos.pdf",
-    "0.Settings/files/Vista do O Uso do GeoGebra e Impressora 3D como Recurso Didático para o Ensino da Geometria das Coordenadas.pdf",
-    "0.Settings/files/Utilização Lúdica do Software GeoGebra 3D.pdf",
-    "0.Settings/files/USO DA IMPRESSORA 3D NO ENSINO DE MATEMÁTICA.pdf",
-    "0.Settings/files/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO.pdf",
     "1.LIFE/Moc/Fontes de Renda.canvas",
     "Sem título.canvas",
     "Sem título 1.canvas",
