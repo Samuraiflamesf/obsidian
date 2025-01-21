@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Index"
             }
+          },
+          {
+            "id": "2b81d89200210b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Caixa de Entrada/A FAZERES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A FAZERES"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,10 +217,11 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2b81d89200210b55",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Index.md",
+    "3.Caixa de Entrada/A FAZERES.md",
+    "conflict-files-obsidian-git.md",
     "3.Caixa de Entrada/scripts de treinamento.md",
     "3.Caixa de Entrada/parâmetros.md",
     "3.Caixa de Entrada/modelo.md",
@@ -233,7 +249,6 @@
     "3.Caixa de Entrada/Infraestrutura como Código.md",
     "3.Caixa de Entrada/Gestão de Configurações.md",
     "3.Caixa de Entrada/Fundamentos de DevOps.md",
-    "3.Caixa de Entrada/Entrega Contínua.md",
     "0.Settings/files/Pasted image 20250120135110.webp",
     "0.Settings/files/Pasted image 20250120132522.webp",
     "0.Settings/files/Captura de Tela 2025-01-19 às 18.28.51-1.webp",
