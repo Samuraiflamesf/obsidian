@@ -8,7 +8,7 @@ tags:
   - pessoal/web
   - DataOps
 ---
-**Princípios**
+**Princípios**n
 - **Satisfação contínua do cliente**: devem ser feitas entregas de valor, ou seja, que agreguem ao cliente e de forma contínua. Podem ser dados brutos para uma futura análise, dados agregados, relatórios ou até mesmo _pipelines_ de dados;
 - **Foco em análises relevantes**: quando alguma análise ou insight for solicitado, ter foco naqueles que sejam úteis para o cliente;
 - **Abraçar a mudança**: é sempre importante considerar a necessidade dos clientes;
