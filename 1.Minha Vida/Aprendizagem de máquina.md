@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataDiscoveryAnalytics
 ---
 Engenharia de Aprendizado de Máquina (AM) é um campo de pesquisa que concentra-se na criação de programas de computador que podem aprimorar seu desempenho autonomamente por meio de experiências.

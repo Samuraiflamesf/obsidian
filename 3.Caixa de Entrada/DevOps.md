@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
 ---
 DevOps é o composto entre duas siglas Dev (_development_ - desenvolvimento) + Ops (_operations_ - operações). 
 

@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
 ---
 ![[Pasted image 20250120222920.webp]]
 Existem diferentes abordagens para lidar com cada tipo de _Drift_:

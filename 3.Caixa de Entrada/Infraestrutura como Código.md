@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataOps
 ---
 O objetivo é criar um documento que registre os requisitos de documentação necessários para um determinado sistema. Esse documento deve incluir informações sobre datas que podem exigir uma infraestrutura aprimorada para atender às demandas do sistema.

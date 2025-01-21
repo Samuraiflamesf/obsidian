@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataOps
 ---
 A essência da cultura Ágil reside nesta parte crucial, essencial para o desenvolvimento da equipe e a gestão do conhecimento:

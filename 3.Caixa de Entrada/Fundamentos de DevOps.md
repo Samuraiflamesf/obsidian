@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataOps
 ---
 Anteriormente, as funções de desenvolvimento de _software_ e operações de TI (engenharia e segurança) atuavam de forma isolada, o que em alguns casos acabavam resultando em equipes com objetivos distintos.

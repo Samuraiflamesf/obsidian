@@ -5,7 +5,6 @@ dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/puc
-  - pessoal/web
   - DataOps
 ---
 - Alterações de código são criadas, testadas e preparadas automaticamente para liberação para produção;
