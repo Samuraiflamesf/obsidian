@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Caixa de Entrada/Fundamentos de MLOps.md",
+                "file": "3.Caixa de Entrada/MLOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentos de MLOps"
+              "title": "MLOps"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Caixa de Entrada/Fundamentos de DataOps.md",
+                "file": "3.Caixa de Entrada/DataOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentos de DataOps"
+              "title": "DataOps"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,11 +217,11 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "487f1cc1b9f7394e",
+  "active": "d3fb4507f7de761f",
   "lastOpenFiles": [
+    "3.Caixa de Entrada/MLOps.md",
+    "3.Caixa de Entrada/DataOps.md",
     "3.Caixa de Entrada/Comunicação & Colaboração.md",
-    "3.Caixa de Entrada/Fundamentos de MLOps.md",
-    "3.Caixa de Entrada/Fundamentos de DataOps.md",
     "3.Caixa de Entrada/Princípios de DevOps.md",
     "3.Caixa de Entrada/Automação.md",
     "3.Caixa de Entrada/Monitoramento Contínuo.md",
