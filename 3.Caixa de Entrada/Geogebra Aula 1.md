@@ -40,3 +40,6 @@ Para fazer isso é necessario clickar sobre os dois pontos com icone de reta aci
 
 **Configurando Arredondamento**
 ![[Pasted image 20250122151328.webp]]
+**Ponto em Objeto**
+Deixa ponto preso a uma figura/reta/poligono.
+****
