@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Indicador RP Compartilhado"
             }
+          },
+          {
+            "id": "7fd2217a1d9d1618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Caixa de Entrada/Como estou usando um servidor 100% gratuito vitalício.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Como estou usando um servidor 100% gratuito vitalício"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,10 +245,12 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "33c595bdbea56ef4",
+  "active": "7fd2217a1d9d1618",
   "lastOpenFiles": [
-    "Index.md",
     "3.Caixa de Entrada/Indicador RP Compartilhado.md",
+    "3.Caixa de Entrada/Como estou usando um servidor 100% gratuito vitalício.md",
+    "1.Minha Vida/PowerBI - Conexão com Oracle.md",
+    "Index.md",
     "conflict-files-obsidian-git.md",
     "3.Caixa de Entrada/Teste.md",
     "3.Caixa de Entrada/Profissionais de Dados.md",
@@ -262,8 +278,6 @@
     "3.Caixa de Entrada/Entrega Contínua.md",
     "3.Caixa de Entrada/MLOps.md",
     "3.Caixa de Entrada/Fundamentos de DevOps.md",
-    "3.Caixa de Entrada/Gestão de Configurações.md",
-    "3.Caixa de Entrada/Microsserviços.md",
     "0.Settings/files/Pasted image 20250120222920-1.webp",
     "0.Settings/files/Captura de Tela 2025-01-20 às 22.39.48-1.webp",
     "0.Settings/files/Pasted image 20250120135110.webp",

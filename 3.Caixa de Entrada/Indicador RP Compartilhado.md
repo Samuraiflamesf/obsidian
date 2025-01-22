@@ -15,3 +15,4 @@ Analisar as disparidades entre municípios que aderiram e os que não aderiram a
 **Quais filtros?**
 
 **Fonte de dados:**
+Relátorio de distribuição do SIMPAS
