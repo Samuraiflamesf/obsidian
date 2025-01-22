@@ -42,4 +42,6 @@ Para fazer isso é necessario clickar sobre os dois pontos com icone de reta aci
 ![[Pasted image 20250122151328.webp]]
 **Ponto em Objeto**
 Deixa ponto preso a uma figura/reta/poligono.
-****
+**Juntar pontos**
+![[Pasted image 20250122153333.webp]]
+Com caminho Poligonal vc consegue criar uma sequencia de pontos
