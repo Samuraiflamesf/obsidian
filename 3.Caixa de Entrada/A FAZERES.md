@@ -1,0 +1,6 @@
+- [ ] Data Lake
+- [ ] data wharehouse
+- [ ] mealie config
+- [ ] Portainer
+- [ ] coolify
+- [ ] Estudar
