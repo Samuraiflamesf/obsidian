@@ -66,9 +66,3 @@ ssh -i path/to/server.key ubuntu@seu-ip-público
 Após alguns segundos, você conseguirá acessar seu servidor, visualizando algo assim:
 
 ![](https://cdn-images-1.medium.com/max/2000/1*NB6U21ypo0xjYwoQobUfvA.png)
-
-Se precisar de ajuda para configurar seu servidor gratuito Oracle, há um vídeo bem explicado no YouTube que pode guiá-lo passo a passo.
-
-Com base no feedback recebido, parece que esta solução tem cerca de 50% de chances de sucesso. Muitos desenvolvedores estão aproveitando este serviço, embora alguns enfrentem dificuldades para concluir o processo. Vale a tentativa.
-
-Obrigado por ler este artigo! Se achou útil, um aplauso 👏 seria muito apreciado — isso me **motiva** a continuar escrevendo. Para aprender mais sobre desenvolvimento open-source e full-stack, siga-me no [**Twitter (X)**](https://x.com/harendraverma2) e no [**Medium**](https://medium.com/@harendra21).
