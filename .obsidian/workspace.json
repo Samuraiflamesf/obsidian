@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Index"
-            }
-          },
-          {
-            "id": "8aca90998b3e31a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "1.Minha Vida/Novo SGA.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "Novo SGA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,23 +216,32 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "8aca90998b3e31a5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "3.Caixa de Entrada/Sem título 1.md",
     "Index.md",
+    "0.Settings/files/Novo SGA-20250106144627611.webp",
+    "0.Settings/files/favicon.svg",
+    "0.Settings/files/D_NQ_NP_677830-MLB46832464432_072021-O.webp",
+    "0.Settings/files/Captura de Tela 2015-12-09 às 10.54.36.png",
+    "0.Settings/files/Captura de Tela 2015-12-09 às 10.35.25.png",
+    "0.Settings/files/Captura de Tela 2015-12-09 às 09.45.19.png",
+    "0.Settings/files/buddha-20241103114625739.webp",
+    "0.Settings/files/buddha-20241103114613457.webp",
+    "0.Settings/files/buddha-20241103114542390.webp",
+    "0.Settings/files/buddha-20241103114239007.webp",
+    "3.Caixa de Entrada/Geogebra Aula 1.md",
+    "0.Settings/files/Artigo - DESENVOLVIMENTO DE MODELOS IMPRESSOS EM 3D.pdf",
+    "0.Settings/files/ABORDAGEM GEOMÉTRICA DE PROBLEMAS DE PROGRAMAÇÃO.pdf",
+    "0.Settings/files/O PROCESSO DE IMPRESSÃO 3D COMO FERRAMENTA.pdf",
+    "0.Settings/files/O uso do GeoGebra 3D no ensino de Geometria..pdf",
+    "0.Settings/files/UM PROCESSO PARA UTILIZAR A TECNOLOGIA DE IMPRESSÃO 3D NA.pdf",
+    "0.Settings/files/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO DA MATEMÁTICA- CONSTRUINDO INSTRUMENTOS DIDÁTICOS PARA A SALA DE AULA.pdf",
+    "1.Minha Vida/Novo SGA.md",
+    "3.Caixa de Entrada/Sem título 1.md",
     "3.Caixa de Entrada/Como estou usando um servidor 100% gratuito vitalício.md",
     "3.Caixa de Entrada/Sem título.md",
     "3.Caixa de Entrada/VPS.md",
     "conflict-files-obsidian-git.md",
-    "3.Caixa de Entrada/Geogebra Aula 1.md",
-    "0.Settings/files/Pasted image 20250122153333.webp",
-    "0.Settings/files/Pasted image 20250122151328.webp",
-    "0.Settings/files/Pasted image 20250122151112.webp",
-    "0.Settings/files/Pasted image 20250122151003.webp",
-    "0.Settings/files/Pasted image 20250122150728.webp",
-    "0.Settings/files/Pasted image 20250122150519.webp",
-    "0.Settings/files/Pasted image 20250122150402.webp",
-    "0.Settings/files/Pasted image 20250122150130.webp",
     "3.Caixa de Entrada/Indicador RP Compartilhado.md",
     "1.Minha Vida/PowerBI - Conexão com Oracle.md",
     "3.Caixa de Entrada/Teste.md",
@@ -255,8 +249,6 @@
     "3.Caixa de Entrada/Monitoramento.md",
     "3.Caixa de Entrada/Deploy Laravel com Coolify.md",
     "3.Caixa de Entrada/A FAZERES.md",
-    "0.Settings/files/Pasted image 20250121230750.webp",
-    "0.Settings/files/Captura de Tela 2025-01-21 às 19.23.10.webp",
     "3.Caixa de Entrada/Princípios de MLOps.md",
     "3.Caixa de Entrada/modelo.md",
     "3.Caixa de Entrada/parâmetros.md",
@@ -268,17 +260,9 @@
     "dados de treinamento",
     "3.Caixa de Entrada/Treinamento Contínuo.md",
     "3.Caixa de Entrada/AutoML.md",
-    "3.Caixa de Entrada/Continuous X 1.md",
-    "3.Caixa de Entrada/Monitoramento Contínuo.md",
     "0.Settings/files/[Slides] 4. Análise Preditiva.pdf",
     "0.Settings/files/Que gráfico utilizar.pdf",
     "0.Settings/files/Subprojeto 1.pdf",
-    "0.Settings/files/Subprojeto.pdf",
-    "Narativa do PIBID",
-    "0.Settings/files/RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO.pdf",
-    "0.Settings/files/RESUMO CRÍTICO - ESTRELAS ALÉM DO TEMPO 1.pdf",
-    "3.Caixa de Entrada/0.Settings/files",
-    "3.Caixa de Entrada/0.Settings",
     "1.LIFE/Moc/Fontes de Renda.canvas",
     "Sem título.canvas",
     "Sem título 1.canvas",
