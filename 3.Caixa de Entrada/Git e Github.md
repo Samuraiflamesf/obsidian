@@ -37,7 +37,7 @@ Esse fluxo segue os seguintes princípios:
 6. **Branches de Recursos e de Manutenção:** Além das branches de desenvolvimento de recursos, é comum criar branches de manutenção (como "hotfix" para correção rápida de bugs) e branches de recursos (como "feature" ou "develop" para desenvolvimento de novas funcionalidades).
 7. **Histórico Linear:** O Git mantém um histórico linear de commits para cada branch. Isso significa que, mesmo que você tenha várias branches de desenvolvimento, o histórico de cada branch é independente e organizado de forma linear.
 8. **Branches Remotas:** Além das branches locais, o Git permite criar e trabalhar com branches remotas, que estão em um repositório remoto (como no GitHub). Você pode empurrar (push) branches locais para um repositório remoto e puxar (pull) branches remotas para seu repositório local.
-![[Pasted image 20250124170840.png]]
+![[Pasted image 20250124171909.webp]]
 
 Alguns comandos para serem utilizados no Git:
 - **git init**: inicializa um repositório Git em um diretório;
