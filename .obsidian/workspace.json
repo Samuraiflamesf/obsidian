@@ -11,13 +11,32 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Index"
+            }
+          },
+          {
+            "id": "79e35dd65b15c604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Caixa de Entrada/Profissionais de Dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Profissionais de Dados"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -29,6 +48,7 @@
       {
         "id": "10483fac17a9bc76",
         "type": "tabs",
+        "dimension": 61.041465766634516,
         "children": [
           {
             "id": "668bcea7aa6aaf02",
@@ -41,32 +61,60 @@
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
             }
-          }
-        ]
-      },
-      {
-        "id": "d7bcbf342a1f1314",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e7a7b303c61786dc",
+            "id": "9e18087220f06bd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "search",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               },
-              "icon": "lucide-file",
-              "title": "Index"
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "dcec1584ec694c01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f6a19e85334a3eb4",
+        "type": "tabs",
+        "dimension": 38.95853423336548,
+        "children": [
+          {
+            "id": "c1e187b68064b3dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7ade48561e8780b7",
@@ -77,71 +125,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f026c6d06d316875",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída"
-            }
-          },
-          {
-            "id": "2ad7ebe01af8552f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "byModifiedTime"
-              },
-              "icon": "lucide-search",
-              "title": "Procurar"
-            }
-          },
-          {
-            "id": "6c889d10c74fe0aa",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
-          },
-          {
-            "id": "2a398feee2b2a420",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
-            "id": "7f02a9d97eded469",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
-            }
-          },
-          {
             "id": "a6fe1f222adeda45",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.Caixa de Entrada/Análise Prescritiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Análise Prescritiva"
             }
           },
           {
@@ -159,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "3.Caixa de Entrada/Análise Prescritiva.md"
+              },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Análise Prescritiva"
             }
           },
           {
@@ -183,84 +174,98 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b47013d93f4694c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.Caixa de Entrada/Análise Prescritiva.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Análise Prescritiva"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 515.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Abrir a nota de hoje": true,
-      "switcher:Abrir a troca rápida": true,
-      "templates:Inserir modelo": true,
-      "command-palette:Abrir paleta de comandos": true,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-projects:Open projects": false,
       "obsidian-plugin-tmdb:TMDB Plugin": false,
-      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-projects:Open projects": false,
       "homepage:Open homepage": false,
-      "graph:Abrir visualização em gráfico": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "cmdr:Git: Commit-and-sync": false,
-      "flowershow:Publish with Flowershow": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "79e35dd65b15c604",
   "lastOpenFiles": [
-    "3.Caixa de Entrada/Sem título.md",
-    "3.Caixa de Entrada/Sem título 1.md",
-    "1.Minha Vida/Novo SGA.md",
-    "0.Settings/files/tabuleiro.png",
-    "0.Settings/files/tabuleiro.jpg",
-    "0.Settings/files/tabuleiro jogo_Carol.jpg",
-    "0.Settings/files/stop-logo-1.jpg",
-    "0.Settings/files/rafa_jogo.webp",
-    "0.Settings/files/quarto (2).webp",
-    "0.Settings/files/quarto (2).jpg",
-    "0.Settings/files/quarto (1).webp",
-    "0.Settings/files/mortovivo.png",
-    "0.Settings/files/kaduimagem.png",
+    "3.Caixa de Entrada/VPS.md",
+    "3.Caixa de Entrada/Indicador RP Compartilhado.md",
+    "3.Caixa de Entrada/Geogebra Aula 1.md",
+    "3.Caixa de Entrada/Deploy Laravel com Coolify.md",
+    "3.Caixa de Entrada/Como estou usando um servidor 100% gratuito vitalício.md",
+    "0.Settings/files/tabuleiro-1.webp",
+    "0.Settings/files/tabuleiro.webp",
+    "0.Settings/files/tabuleiro jogo_Carol.webp",
+    "0.Settings/files/stop-logo-1.webp",
+    "0.Settings/files/rafa_jogo-1.webp",
+    "0.Settings/files/quarto (2)-2.webp",
+    "0.Settings/files/quarto (2)-1.webp",
+    "0.Settings/files/quarto (1)-2.webp",
+    "0.Settings/files/quarto (1)-1.webp",
+    "0.Settings/files/proporcao.webp",
     "0.Settings/files/1108.mp4",
     "0.Settings/files/1108 (1).mp4",
     "Index.md",
-    "3.Caixa de Entrada/Geogebra Aula 1.md",
-    "0.Settings/files/Artigo - DESENVOLVIMENTO DE MODELOS IMPRESSOS EM 3D.pdf",
-    "0.Settings/files/ABORDAGEM GEOMÉTRICA DE PROBLEMAS DE PROGRAMAÇÃO.pdf",
-    "0.Settings/files/O PROCESSO DE IMPRESSÃO 3D COMO FERRAMENTA.pdf",
-    "0.Settings/files/O uso do GeoGebra 3D no ensino de Geometria..pdf",
-    "0.Settings/files/UM PROCESSO PARA UTILIZAR A TECNOLOGIA DE IMPRESSÃO 3D NA.pdf",
-    "0.Settings/files/UMA APLICAÇÃO DA TECNOLOGIA DE IMPRESSÃO 3D NO ENSINO DA MATEMÁTICA- CONSTRUINDO INSTRUMENTOS DIDÁTICOS PARA A SALA DE AULA.pdf",
-    "3.Caixa de Entrada/Como estou usando um servidor 100% gratuito vitalício.md",
-    "3.Caixa de Entrada/VPS.md",
-    "conflict-files-obsidian-git.md",
-    "3.Caixa de Entrada/Indicador RP Compartilhado.md",
-    "1.Minha Vida/PowerBI - Conexão com Oracle.md",
-    "3.Caixa de Entrada/Teste.md",
     "3.Caixa de Entrada/Profissionais de Dados.md",
     "3.Caixa de Entrada/Monitoramento.md",
-    "3.Caixa de Entrada/Deploy Laravel com Coolify.md",
-    "3.Caixa de Entrada/A FAZERES.md",
     "3.Caixa de Entrada/Princípios de MLOps.md",
-    "3.Caixa de Entrada/modelo.md",
-    "3.Caixa de Entrada/parâmetros.md",
-    "3.Caixa de Entrada/hiperparâmetros.md",
+    "3.Caixa de Entrada/Teste.md",
+    "3.Caixa de Entrada/A FAZERES.md",
+    "conflict-files-obsidian-git.md",
     "3.Caixa de Entrada/scripts de treinamento.md",
-    "3.Caixa de Entrada/Continuous X.md",
+    "3.Caixa de Entrada/parâmetros.md",
+    "3.Caixa de Entrada/modelo.md",
+    "3.Caixa de Entrada/hiperparâmetros.md",
     "3.Caixa de Entrada/dados de treinamento ou teste.md",
-    "dados de treinamento/teste.md",
-    "dados de treinamento",
     "3.Caixa de Entrada/Treinamento Contínuo.md",
+    "3.Caixa de Entrada/Continuous X.md",
     "3.Caixa de Entrada/AutoML.md",
+    "3.Caixa de Entrada/MLOps.md",
+    "3.Caixa de Entrada/Detecção de data drift em um dataset.md",
+    "3.Caixa de Entrada/Concept Drift.md",
+    "3.Caixa de Entrada/DataOps.md",
+    "3.Caixa de Entrada/Data Drift.md",
+    "3.Caixa de Entrada/Comunicação & Colaboração.md",
+    "3.Caixa de Entrada/2025/01",
+    "3.Caixa de Entrada/2025",
     "0.Settings/files/[Slides] 4. Análise Preditiva.pdf",
+    "0.Settings/files/Que gráfico utilizar.pdf",
+    "0.Settings/files/Subprojeto.pdf",
+    "0.Settings/files/WebQuest - Analisando Gráficos.pdf",
+    "0.Settings/files/Vista do O Uso do GeoGebra e Impressora 3D como Recurso Didático para o Ensino da Geometria das Coordenadas.pdf",
+    "0.Settings/files/Utilização Lúdica do Software GeoGebra 3D.pdf",
     "1.LIFE/Moc/Fontes de Renda.canvas",
     "Sem título.canvas",
     "Sem título 1.canvas",
